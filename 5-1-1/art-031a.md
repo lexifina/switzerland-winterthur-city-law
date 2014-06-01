@@ -1,0 +1,5 @@
+# Art. 31a Richtlinien für gewerbliche Nutzungen
+1 Der Stadtrat erlässt für das Gebiet der Altstadt (umgrenzt durch Bahnhofplatz- Technikumstrasse-General Guisan-Strasse-Stadthaussstrasse) Richtlinien zur gewerblichen Nutzung des öffentlichen Grundes durch Strassencafés, Werbeständer, Warenauslagen und Verkaufsstände usw. Die Richtlinien ergänzen die Bestimmungen dieser Verordnung und die Vorschriften gemäss Art. 31 Abs. 2.
+2 Der Erlass von Richtlinien für Gebiete ausserhalb der Altstadt bedarf der Ermächtigung durch einen Beschluss des Grossen Gemeinderates.
+3 Die Richtlinien berücksichtigen angemessen die Interessen des Gewerbes, der Bevölkerung und der Anwohnenden sowie des Stadtbildes. Die Ausarbeitung der Richtlinien erfolgt unter Einbezug der betroffenen Interessenverbände (z.B. Junge Altstadt, Gastro Winterthur, Quartiervereine).
+4 Die gewerbliche Nutzung des öffentlichen Grundes wird grundsätzlich nur Gewerbebetrieben bewilligt, die in einer Liegenschaft geführt werden, welche unmittelbar an den beanspruchten Teil des öffentlichen Grundes anstösst. Die Nutzungszeiten sind grundsätzlich auf die Öffnungszeiten des Gewerbebetriebs beschränkt.
