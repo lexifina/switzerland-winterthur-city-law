@@ -1,0 +1,5 @@
+# Art. 13a Beiträge im schulischen Bereich
+1 Im schulischen Bereich beteiligen sich die Erziehungsberechtigten mit einem Mindestbeitrag von Fr. 10.– pro Tag. Dieser Beitrag wird indexiert. Für das Angebot «Mittagstisch Sekundarschule» kann ein tieferer Minimalbeitrag festgelegt werden.
+2 Der maximale Beitrag der Erziehungsberechtigten entspricht den Betriebskosten der Betreuungseinheit. Der maximale Beitrag wird ab einem steuerbaren Einkommen zuzüglich eines Anteils des steuerbaren Vermögens von Fr. 75'000.– erhoben. Dieser Betrag wird indexiert.
+3 Für die Beitragsberechnung sind das Einkommen und das Vermögen der im gleichen Haushalt lebenden Eltern (inklusive Stief- und Konkubinatseltern) massgebend. Es bestimmt sich grundsätzlich nach der letztgültigen definitiven Veranlagung der Staats- und Gemeindesteuern und setzt sich zusammen aus dem steuerbaren Einkommen und 10% des steuerbaren Vermögens nach Abzug des steuerfreien Betrages.
+4 In Härtefällen kann auf der Grundlage der Einkommensrichtlinien der Schweizerischen Konferenz für Sozialhilfe (SKOS) der Beitrag reduziert werden.
