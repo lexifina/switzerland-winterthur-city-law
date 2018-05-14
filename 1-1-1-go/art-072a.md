@@ -1,0 +1,7 @@
+# Art. 72a III. Berufliche Vorsorge
+1 Die berufliche Vorsorge des Personals und der Behördenmitglieder erfolgt durch die Pensionskasse der Stadt Winterthur. Diese ist eine von der Stadt errichtete öffentlich-rechtliche Vorsorgestiftung. Sie soll den Versicherten einen angemessenen Schutz gegen die wirtschaftlichen Nachteile von Alter, Invalidität und Tod bieten.
+2 Der Grosse Gemeinderat erlässt die Stiftungsurkunde und allfällige spätere Änderungen.
+3 Die Finanzierung der Pensionskasse erfolgt durch die Arbeitgeber- und Versichertenbeiträge, eingebrachte Freizügigkeitsleistungen, freiwillige Einlagen der Arbeitgeber oder Versicherten, durch allfällige Überschüsse aus Versicherungsverträgen, durch freiwillige Zuwendungen Dritter sowie durch die Erträgnisse des Stiftungsvermögens. Das Nähere der Finanzierung regelt der Grosse Gemeinderat in einer Verordnung.
+4 Der Stiftungsrat der Vorsorgestiftung kann dem Stadtrat zuhanden des Grossen Gemeinderates Anträge zur Änderung der Stiftungsurkunde und der Finanzierung stellen.
+5 Der Stadtrat wählt die städtischen Arbeitgebervertretungen im Stiftungsrat der Vorsorgestiftung. Er ist befugt, die Versicherung einzelner Personalgruppen und Gruppen von Behördenmitgliedern bei einer anderen Vorsorgeeinrichtung zu bewilligen.
+6 Die Revisionsstelle und der Experte für berufliche Vorsorge erfüllen die ihnen vom Bundesrecht und vom kantonalen Recht übertragenen Aufgaben.
