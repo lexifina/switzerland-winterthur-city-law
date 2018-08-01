@@ -1,0 +1,4 @@
+# Art. 11b Lohnkategorien
+1 Die von den kantonalen Einreihungen nicht erfassten städtischen Lehrpersonen werden gemäss Anhang 1 eingereiht.
+2 Das Departement Schule und Sport regelt in Absprache mit dem Personalamt, welche Ausbildungen zur Einreihung in eine Lohnkategorie berechtigen.
+3 In die Lohnkategorien der kantonalen Lehrpersonalverordnung eingereihte Lehrpersonen ohne entsprechende Grundausbildung erhalten den vom Kanton für Vikarinnen und Vikare ohne Grundausbildung vorgesehenen Anteil an der Grundbesoldung, soweit im Anhang 1 keine anderweitige Einreihung vorgesehen ist.
