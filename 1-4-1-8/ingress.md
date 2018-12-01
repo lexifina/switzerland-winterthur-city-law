@@ -1,2 +1,2 @@
-# Reglement des Ausländer/innen-Beirats
-vom 07.05.2014
+# Reglement des Migrationsbeirats
+vom 21.11.2018
