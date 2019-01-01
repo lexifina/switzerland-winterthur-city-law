@@ -1,0 +1,3 @@
+# Art. 50b Kindes- und Erwachsenenschutzbehörde Winterthur-Andelfingen
+1 Der Stadtrat regelt im Rahmen der städtischen Lohnordnung die Besoldung der Behördenmitglieder der Kindes- und Erwachsenenschutzbehörde (KESB) Winterthur-Andelfingen und der Ersatzmitglieder.
+2–3 …

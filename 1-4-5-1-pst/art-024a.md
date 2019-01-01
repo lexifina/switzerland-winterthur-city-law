@@ -1,0 +1,4 @@
+# Art. 24a Änderungskündigung
+1 Als Änderungskündigung gilt die Kündigung des Arbeitsverhältnisses durch die Stadt in Verbindung mit dem Angebot, das bestehende Arbeitsverhältnis zu geänderten Bedingungen fortzusetzen oder ein neues Arbeitsverhältnis zu begründen.
+2 Für die Änderungskündigung gelten die allgemeinen Bestimmungen über die Kündigung und den Kündigungsschutz.
+3 Eine Änderungskündigung ist notwendig, wenn das bestehende Arbeitsverhältnis wesentlich verändert oder ein neues Arbeitsverhältnis begründet werden soll und dies nicht im gegenseitigen Einvernehmen erfolgt. Als wesentliche Veränderungen gelten insbesondere eine grundlegende Änderung der Funktion, der Stellenbeschreibung oder der organisatorischen Einordnung sowie Änderungen der Dauer der Anstellung, der Kündigungsfrist, des Pensums und des Lohnes.
