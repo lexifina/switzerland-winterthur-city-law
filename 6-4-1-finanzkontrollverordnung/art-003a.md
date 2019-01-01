@@ -1,0 +1,7 @@
+# Art. 3a Besoldung
+1 Die Leitung der Finanzkontrolle wird in Lohnklasse 18 eingestuft.
+2 Die Lage im Lohnband ist abhängig vom Alter beim Amtsantritt und richtet sich nach der Einstufungstabelle im Anhang 1 (Kalenderjahr, in welchem das jeweilige Altersjahr vollendet wird).
+3 Der Grosse Gemeinderat kann auf Empfehlung der Spezialkommission bei speziell wenig oder speziell viel Erfahrung im Tätigkeitsbereich den Eintrittslohn im Lohnband um maximal drei Prozentpunkte tiefer oder höher festlegen.
+4 Lohnerhöhungen werden – unter Vorbehalt von Abs. 5 und Art. 27 – jährlich per 1. März gewährt. Bis und mit einer Lohnbandposition von 130 % beträgt die Lohnerhöhung 1 Prozentpunkt im Lohnband, anschliessend, ab einer Lohnbandposition von 131 %, beträgt die Lohnerhöhung 0.5 Prozentpunkte. Maximal ist eine Lohnbandposition von 141 % erreichbar.
+5 Wenn der Grosse Gemeinderat auf die Gewährung von Mitteln für Lohnanpassungen für die Angestellten der Stadtverwaltung verzichtet, wird die jährliche Erhöhung gemäss Absatz 4 ausgesetzt.
+6 Im Übrigen richtet sich die Besoldung nach dem Personalstatut.

@@ -5,3 +5,4 @@
 ## 5 Vorstösse, Fragestunde und Legislaturschwerpunkte
 ## 6 Bürgerrechtsgeschäfte
 ## 7 Schlussbestimmung
+## 8 Übergangsbestimmung
