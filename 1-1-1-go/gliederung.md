@@ -15,6 +15,7 @@
 ### 4.2 Befugnisse
 ### 4.3 Organisation
 ### 4.4 Geschäftsbehandlung
+### 4.5 Haushaltsteuerung
 ## 5 Die Schulbehörden
 ### 5.1 Allgemeines
 ### 5.2 Zentralschulpflege
@@ -30,3 +31,4 @@
 ## 12 Rechtsmittel
 ## 13 Übergangsbestimmungen
 ## 14 Verselbständigung Pensionskasse
+## 15 Abgabe von Liegenschaften
