@@ -19,4 +19,4 @@
 ### 3.5 Weitere Rechte
 ## 4 Pflichten der Angestellten
 ## 5 Schlussbestimmungen
-## A1 Anhang 1: Lohnskala (Art. 44)
+## A1 …
