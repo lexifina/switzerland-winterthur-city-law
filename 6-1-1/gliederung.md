@@ -3,5 +3,5 @@
 ## 3 Budgetierung
 ## 4 Berichterstattung, Budgetveränderungen und Rechnungslegung
 ## 5 Aufgaben- und Ausgabenvollzug
-## 6 Inkraftsetzung und Vollzug
-## 7 Übergangsbestimmungen
+## 6 Schlussbestimmungen
+## 7 …
