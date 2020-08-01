@@ -1,5 +1,5 @@
 # Art. 9b Altersrücktritt
-1 Der ordentliche Altersrücktritt von städtischen Lehrpersonen an der Volksschule und den städtischen Sonderschulen erfolgt per Ende des Schuljahres, von Lehrpersonen der Schule Profil. und der MSW per Ende des Semesters, in dem sie das 65. Altersjahr vollenden.
-2 Die Lehrperson kann unter Beachtung der Kündigungsfrist den Verzicht auf eine Weiterbeschäftigung bis Ende Schuljahr bzw. bis Ende Semster erklären. Der Altersrücktritt erfolgt in diesen Fällen per Ende des Monats, in dem die Lehrperson das 65. Altersjahr vollendet.
+1 Der ordentliche Altersrücktritt gemäss Art. 25 Abs. 2 PST gilt für Lehrpersonen an der Volksschule und den städtischen Sonderschulen bis Ende des Schuljahres, für Lehrpersonen der Schule Profil. und der MSW bis Ende des Semesters, in dem sie das 65. Altersjahr vollenden, als aufgeschoben.
+2 Die Lehrperson kann unter Beachtung der Kündigungsfrist den Verzicht auf den Aufschub des Altersrücktritts erklären. Der Altersrücktritt erfolgt in diesen Fällen per Ende des Monats, in dem die Lehrperson das 65. Altersjahr vollendet.
 3 Eine befristete Wiederanstellung nach dem Altersrücktritt ist mit Zustimmung der Departementsleitung längstens bis zur Vollendung des 70. Altersjahrs möglich, wenn ein erhebliches Interesse der Stadt an einer Wiederanstellung besteht. Art. 14 Abs. 3 PST sowie die Regelungen über die Abfindung, Lohnentwicklung und Lohnfortzahlung finden keine Anwendung.
 4 Ein vorzeitiger Altersrücktritt kann unter Einhaltung der für das Verwaltungspersonal vorgesehenen Bedingungen erklärt werden.
