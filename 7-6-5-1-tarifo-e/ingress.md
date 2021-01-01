@@ -1,3 +1,5 @@
-# Tarifordnung betreffend Abgabe von Elektrizität
-vom 28.08.2019
-Gestützt auf die Verordnung über die Abgabe von Elektrizität (VAE) vom 27. Juni 2011 erlässt der Stadtrat folgende Tarifordnung:
+# Tarifordnung betreffend die Abgabe von Elektrizität
+vom 26.08.2020
+Der Stadtrat
+gestützt auf die Verordnung über die Abgabe von Elektrizität (VAE) vom 27. Juni 2011
+erlässt folgende Tarifordnung:
