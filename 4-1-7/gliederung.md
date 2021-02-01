@@ -9,3 +9,4 @@
 ## 9 Schlussbestimmungen
 ## A1 Anhang 1: Zuweisung zu sonderpädagogischen Massnahmen
 ## A2 …
+## A3 Anhang 3: Geschäftsreglement des Ausschusses Sonderschulung
