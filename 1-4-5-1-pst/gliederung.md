@@ -15,7 +15,7 @@
 ### 3.1 Schutz der Persönlichkeit
 ### 3.2 Allgemeine Lohnordnung
 ### 3.3 Besondere Bestimmungen zum Lohn
-### 3.4 Teuerungsanpassung
+### 3.4 Teuerungszulage
 ### 3.5 Weitere Rechte
 ## 4 Pflichten der Angestellten
 ## 5 Schlussbestimmungen
