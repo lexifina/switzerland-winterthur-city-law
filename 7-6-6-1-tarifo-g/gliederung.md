@@ -1,5 +1,6 @@
-## 1 Kundengruppen
-## 2 Produkte
-## 3 Tarife
-## 4 Ermässigungen
-## 5 Schlussbestimmungen
+## I. Kundengruppen
+## II. Netznutzungsentgelt
+## III. Netzzugang
+## IV. Produkte von Stadtwerk Winterthur
+## V. Preise für die Energieprodukte von Stadtwerk Winterthur
+## VI. Schlussbestimmungen
