@@ -3,5 +3,6 @@
 ## III. Energieprodukte
 ## IV. Tarife
 ## V. Temporärer Stromanschluss
-## VI. Serviceleistungen im Messwesen in ausserordentlichen Fällen
-## VII. Schlussbestimmungen
+## VI. Ersatzversorgung
+## VII. Serviceleistungen im Messwesen in ausserordentlichen Fällen
+## VIII. Schlussbestimmungen
