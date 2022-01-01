@@ -1,2 +1,3 @@
-# Verordnung betreffend das nächtliche Dauerparkieren auf öffentlichem Grund (gesteigerter Gemeingebrauch)
-vom 31.05.1965
+# Verordnung über das nächtliche Dauerparkieren auf öffentlichem Grund
+(Nachtparkierverordnung, NPV)
+vom 26.09.2021
