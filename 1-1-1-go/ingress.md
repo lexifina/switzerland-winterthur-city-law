@@ -1,2 +1,3 @@
 # Gemeindeordnung
-vom 26.11.1989
+(GO)
+vom 26.09.2021
