@@ -18,5 +18,6 @@
 ### 3.4 Teuerungszulage
 ### 3.5 Weitere Rechte
 ## 4 Pflichten der Angestellten
+## 4a Personalcontrolling
 ## 5 Schlussbestimmungen
 ## A1 …
