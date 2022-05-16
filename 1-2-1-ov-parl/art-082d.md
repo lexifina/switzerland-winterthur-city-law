@@ -1,9 +1,0 @@
-# Art. 82d Vorstoss von Ausländerinnen und Ausländern, Verfahren
-1 Ein Vorstoss von Ausländerinnen und Ausländern ist in schriftlicher Form beim Parlamentsdienst einzureichen.
-2 Der Parlamentsdienst lässt bei der Einwohnerkontrolle die Berechtigung der unterzeichnenden Personen überprüfen. Die Einwohnerkontrolle nimmt die Überprüfung innert 30 Tagen vor und teilt das Ergebnis dem Parlamentsdienst schriftlich mit.
-3 Genügt der eingereichte Vorstoss den formellen Anforderungen gemäss Art. 82c Abs. 4 und Art. 82d Abs. 1 nicht, setzt der Parlamentsdienst eine kurze Frist zur Behebung des Mangels an. Falls keine fristgerechte Mängelbehebung erfolgt, entscheidet die Parlamentsleitung, ob auf den Vorstoss eingetreten wird.
-4 Enthält der Vorstoss mindestens 100 gültige Unterschriften, wird er dem Stadtparlament sowie dem Stadtrat zur Kenntnis gebracht und an einer der folgenden Parlamentssitzungen traktandiert.
-5 Die Vertreterin oder der Vertreter der Versammlung, an der der Vorstoss beschlossen wurde, oder die bezeichnete Stellvertretung hat das Recht, den Vorstoss im Stadtparlament kurz mündlich zu begründen.
-6 Das Stadtparlament beschliesst, ob der Vorstoss von Ausländerinnen und Ausländern dem Stadtrat zur Berichterstattung zu überweisen oder sofort abzuschreiben ist.
-7 Der Stadtrat hat über einen überwiesenen Vorstoss von Ausländerinnen und Ausländern innert sechs Monaten Bericht zu erstatten. Das Stadtparlament kann die Frist auf begründetes Gesuch hin erstrecken.
-8 Liegt der Bericht des Stadtrates vor, so nimmt das Stadtparlament in zustimmendem oder ablehnendem Sinn Kenntnis davon. Das Stadtparlament kann einen Ergänzungsbericht verlangen, der innert sechs Monaten zur endgültigen Kenntnisnahme im zustimmenden oder ablehnenden Sinne vorzulegen ist. Mit der Kenntnisnahme ist der Vorstoss von Ausländerinnen und Ausländern erledigt.
