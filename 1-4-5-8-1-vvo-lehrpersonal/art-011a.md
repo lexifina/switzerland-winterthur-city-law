@@ -1,3 +1,0 @@
-# Art. 11a Pflichtlektionen
-1 …
-2 Für Lehrpersonen der MSW und der Schule Profil. richtet sich die Anzahl Pflichtlektionen für ein Vollpensum nach der Mittel- und Berufsschullehrervollzugsverordnung.

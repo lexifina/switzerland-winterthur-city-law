@@ -1,3 +1,0 @@
-# Art. 8b Lehrpersonen der städtischen Sonderschulen
-1 Für die an den städtischen Sonderschulen tätigen Lehrpersonen gilt grundsätzlich der Berufsauftrag gemäss den Bestimmungen für die nach kantonalem Recht angestellten Lehrpersonen der Volksschule.
-2 Zur Arbeitszeit gemäss § 7 Abs. 1 Lehrpersonalverordnung zählen auf der Kindergartenstufe auch die begleiteten Pausen und die Auffangzeiten.
