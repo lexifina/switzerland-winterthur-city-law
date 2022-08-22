@@ -1,3 +1,2 @@
-# Geschäftsordnung der Kommission Profil. – Berufsvorbereitung Winterthur
-vom 12.08.2015
-Gestützt auf Art. 41 Abs. 2 Ziff. 7 GO erlässt der Stadtrat folgende Geschäftsordnung:
+# Reglement über die Schule für Berufsvorbereitung Winterthur
+vom 13.07.2022
