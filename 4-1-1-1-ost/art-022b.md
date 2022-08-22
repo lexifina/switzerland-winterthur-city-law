@@ -1,3 +1,0 @@
-# Art. 22b Speichern und Drucken im Netzwerk
-1 Für die Speicherung von besonderen Personendaten stellt die Zentralschulpflege ausschliesslich das Verwaltungsnetz und die Applikation «LehrerOffice» zur Verfügung.
-2 Für den Ausdruck von besonderen Personendaten stellt die Zentralschulpflege ausschliesslich Outputgeräte zur Verfügung, welche den Ausdruck erst mit Hilfe eines Badges oder durch Eingabe eines PIN-Codes am Gerät ausführen.

@@ -1,2 +1,3 @@
-# Organisationsreglement für die Volksschule in Winterthur
-vom 29.06.2010
+# Organisationsstatut für die Volksschule in Winterthur
+(OSt)
+vom 22.07.2022

@@ -1,5 +1,0 @@
-# Art. 28a Angebot
-1 Die Schulergänzende Betreuung bietet die Angebote Mittags- und Nachmittagsbetreuung ab einem Bedarf von durchschnittlich zehn Kindern pro Betreuungseinheit an. Besteht bei weniger als zehn Schülerinnen und Schülern Bedarf an schulergänzender Betreuung, entscheidet die Kreisschulpflege über Lösungen im Einzelfall.
-1a Morgenbetreuung wird ab durchschnittlich sechs pro Betreuungseinheit angemeldeten Kindern angeboten.
-2 Mittagstische für Kinder aus Kleinklassen für Schülerinnen und Schüler mit besonders hohem Förderbedarf werden auf Primar- und Sekundarschule angeboten, auch wenn weniger als 10 Kinder den Mittagstisch besuchen.
-3 Mittagstische für Kinder aus Kleinklassen für Schülerinnen und Schüler mit besonders hohem Förderbedarf können separativ geführt werden. Es sind immer mindestens zwei Betreuungspersonen anwesend. Wenn eine der Betreuungspersonen auch als sozialpädagogische Unterstützung im Unterricht der Besonderen Klasse eingesetzt ist, kann der Mittagstisch integrativ, mit einer Gruppengrösse von maximal 11 Kindern geführt werden.
