@@ -1,3 +1,4 @@
-# Geschäftsordnung Volksschule Winterthur
-vom 03.05.2010
-Gestützt auf Art. 28 Abs. 1 Ziff. 24a der Gemeindeordnung vom 26. November 1989 erlässt der Grosse Gemeinderat folgende Geschäftsordnung für die Volksschule:
+# Verordnung über die Volksschule in der Stadt Winterthur
+vom 29.08.2022
+Das Stadtparlament
+erlässt folgende neue Verordnung über die Volksschule in der Stadt Winterthur:
