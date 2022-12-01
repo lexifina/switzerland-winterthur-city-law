@@ -1,4 +1,4 @@
 # Geschäftsordnung KESB Winterthur-Andelfingen
-vom 06.06.2019
-Die Kindes- und Erwachsenenschutzbehörde Winterthur-Andelfingen
+vom 10.11.2022
+Die KESB Winterthur-Andelfingen
 erlässt folgende Bestimmungen:
