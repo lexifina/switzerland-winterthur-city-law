@@ -1,4 +1,6 @@
 ## 1 Allgemeines
+## 1a Ausschuss Sonderpädagogik
+## 1b Leitung Bildung
 ## 2 Integrative Förderung
 ## 3 Förderung ausgeprägter Begabung
 ## 4 Therapien
@@ -9,4 +11,4 @@
 ## 9 Schlussbestimmungen
 ## A1 Anhang 1: Zuweisung zu sonderpädagogischen Massnahmen
 ## A2 …
-## A3 Anhang 3: Geschäftsreglement des Ausschusses Sonderschulung
+## A3 …
