@@ -1,5 +1,5 @@
 ## 1 Allgemeine Bestimmungen
-## 2 Voranschlag und Rechnung
+## 2 Budget und Rechnung
 ## 3 Kreditanträge
 ## 4 Schulkredite
 ### 4.1 Allgemeine Bestimmungen

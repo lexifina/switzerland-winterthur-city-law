@@ -1,3 +1,4 @@
 # Art. 22c Ressourcenausgleich
-1 Innerhalb eines Schulkreises können aufgrund der Zusammensetzung der Schülerschaft einer Schule Ressourcen aus dem SKIS zu einem SKIS einer anderen Schule verlagert werden. Der insgesamt in einem Kreis zur Verfügung stehende Betrag für alle SKIS darf nicht überschritten werden.
-2 Die Kreisschulleitungskonferenz legt unter Beachtung der Vorgaben der Zentralschulpflege das Verfahren zur Erarbeitung einer Empfehlung innerhalb der Kreisschulleitungskonferenz fest.
+1 Innerhalb der Schulen eines Bildungsteams können aufgrund der Zusammensetzung der Schülerinnen und Schüler einer Schule Ressourcen aus dem SKIS zu einem SKIS einer anderen Schule verlagert werden. Der insgesamt zur Verfügung stehende Betrag für alle SKIS darf nicht überschritten werden.
+2 Kommt innerhalb der Schulen eines Bildungsteams kein Ressourcenausgleich zustande, prüft die Geschäftsführung die gesamtstädtischen Möglichkeiten eines Ressourcenausgleichs.
+3 Können sich innerhalb eines Bildungsteams die Schulleitungen nicht über einen Ressourcenausgleich einigen, entscheidet die zuständige Leiterin oder der zuständige Leiter Bildung. Kommt bei einem bildungsteamübergreifenden Ressourcenausgleich keine Einigung zwischen den für die betroffenen Schulen zuständigen Leiterinnen oder Leitern Bildung zustande, entscheidet der Ausschuss Sonderpädagogik.
