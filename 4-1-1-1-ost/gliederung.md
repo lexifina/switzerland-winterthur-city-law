@@ -1,6 +1,7 @@
 ## 1 Grundlagen
 ## 2 Schulpflege
 ## 3 Schreiber bzw. Schreiberin der Schulpflege
+## 3a Kommission der Schulpflege
 ## 4 Leitung Bildung
 ## 5 Schulleitung
 ## 6 Geschäftsführung Schule
