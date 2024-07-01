@@ -1,4 +1,4 @@
-## 1 Gebühren im Baubewilligungsverfahren
+## 1 Gebühren im Baubewilligungs- und Meldeverfahren
 ## 2 Konzessionsgebühren
 ## 3 Übrige Gebühren
 ## 4 Berechnung der Gebühren nach Aufwand
