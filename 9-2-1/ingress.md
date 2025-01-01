@@ -1,3 +1,5 @@
-# Verordnung über das Taxiwesen
-vom 11.01.1989
-Gestützt auf § 74 des kantonalen Gesetzes über das Gemeindewesen vom 6.6.1926 erlässt der Stadtrat folgende Bestimmungen:
+# Verordnung über Taxistandplätze auf öffentlichem Grund
+vom 13.11.2024
+Der Stadtrat,
+gestützt auf § 5 des Gesetzes über den Personentransport mit Taxis und Limousinen (PTLG) vom 25. März 2019 sowie Art. 32 Abs. 1 der Gemeindeordnung vom 26. September 2021 (GO)
+beschliesst,
