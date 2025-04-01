@@ -2,6 +2,7 @@
 ### 1.1 Veröffentlichung von Beschlüssen der städtischen Behörden
 ### 1.2 Amtliche Publikation
 ### 1.3 Veröffentlichung von Vernehmlassungsergebnissen
+### 1.3a Verzeichnis über externe Studien, Planungen, Berichte, Gutachten
 ### 1.4 Sammlung des kommunalen Rechts
 #### 1.4.1 Rechtssammlung der Stadt Winterthur
 #### 1.4.2 Redaktion von Erlassen und Zuständigkeit
