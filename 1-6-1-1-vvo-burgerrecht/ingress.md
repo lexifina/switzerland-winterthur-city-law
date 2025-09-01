@@ -1,3 +1,6 @@
-# Gebührenordnung Einbürgerungen
-vom 11.01.2006
-Gestützt auf Art. 7 und 9 der Verordnung über das Bürgerrecht der Stadt Winterthur sowie §§ 43 bis 48 der Kantonalen Bürgerrechtsverordnung erlässt der Stadtrat am 11. Januar 2006 folgende Gebührenordnung:
+# Vollzugsverordnung zur Verordnung über das Bürgerrecht der Stadt Winterthur
+(VVO Bürgerrecht)
+vom 09.07.2025
+Der Stadtrat,
+gestützt auf Artikel 4 Absatz 4 der Verordnung über das Bürgerrecht der Stadt Winterthur vom 3. Juni 2024 (VO Bürgerrecht Winterthur),
+beschliesst:
