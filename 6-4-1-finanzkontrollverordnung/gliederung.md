@@ -4,4 +4,4 @@
 ## 4 Berichterstattung und Beanstandungen
 ## 5 Verfahren
 ## 6 Schlussbestimmungen
-## 7 Übergangsbestimmung
+## 7 …
