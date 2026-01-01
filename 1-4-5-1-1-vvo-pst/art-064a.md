@@ -1,3 +1,6 @@
-# Art. 64a Betreuungsurlaub
-1 Haben Mitarbeitende einen Anspruch auf eine Betreuungsentschädigung nach den Art. 16n–16o Erwerbsersatzgesetz, weil ihr Kind wegen Krankheit oder Unfall gesundheitlich schwer beeinträchtigt ist, so besteht Anspruch auf einen bezahlten Betreuungsurlaub von höchstens 14 Wochen.
-2 Die Rechtsfolgen des Betreuungsurlaubes richten sich nach den Bestimmungen des Obligationenrechts.
+# Art. 64a Urlaub des anderen Elternteils, 1. Allgemeines
+1 Anspruch auf einen bezahlten Urlaub von 15 Arbeitstagen hat:
+a der Angestellte, der im Zeitpunkt der Geburt eines Kindes dessen rechtlicher Vater ist oder innerhalb der auf die Geburt folgenden sechs Monate dessen rechtlicher Vater wird;
+b die Angestellte, die im Zeitpunkt der Geburt eines Kindes dessen rechtlicher anderer Elternteil ist.
+2 Der Bezug des bezahlten Urlaubs muss innerhalb von sechs Monaten ab Geburt erfolgen. Während des Bezugs des bezahlten Urlaubs nach Art. 64b VVO PST wird diese Frist unterbrochen. Er kann wochen- oder tageweise bezogen werden.
+3 Es besteht ein Anspruch auf einen unbezahlten Elternteilurlaub von drei Wochen in den ersten zwei Lebensjahren des Kindes.
