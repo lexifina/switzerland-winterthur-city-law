@@ -1,8 +1,13 @@
-## 1 Allgemeines
-## 2 Zuständigkeiten und Aufgaben
-## 3 Rahmenbedingungen
-## 4 Bewilligungsverfahren
-## 5 Rechte und Pflichten der Benützerinnen und Benützer
-## 6 Benützungsvorschriften
-## 7 Rechtsschutz
-## 8 Schlussbestimmungen
+## I. Grundlagen
+## II. Rahmenbedingungen
+## III. Benutzungsvorschriften
+### 1. Allgemein
+### 2. Schulanlagen
+### 3. Fussballanlagen
+### 4. Badeanlagen
+### 5. Eissportanlage
+## IV. Rechte und Pflichten
+## V. Bewilligungsverfahren
+## VI. Sanktionen
+## VII. Haftung
+## VIII. Übergangs- und Schlussbestimmungen
