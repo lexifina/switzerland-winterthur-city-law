@@ -1,4 +1,7 @@
-# Verordnung über die Organisation des Stadtführungsstabes Winterthur
-(VOSFW)
-vom 28.02.2018
-Gestützt auf § 8 des Bevölkerungsgesetzes (BSG) vom 4. Februar 2008 sowie § 48 Abs. 2 des Gemeindegesetzes vom 20. April 2015 erlässt der Stadtrat folgende Verordnung:
+# Verordnung über die Städtische Krisenführungsorganisation Winterthur
+(VOSFO)
+vom 25.03.2026
+Der Stadtrat,
+gestützt auf § 8 des Bevölkerungsgesetzes (BSG) vom 4. Februar 2008,
+beschliesst:
+1 Allgemeines
