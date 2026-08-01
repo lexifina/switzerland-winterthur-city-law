@@ -6,3 +6,4 @@ c. der Pflicht zur Durchführung einer Umweltverträglichkeitsprüfung unterlieg
 2 Neue SVN sind nur in den im Ergänzungsplan «Stark Verkehrserzeugende Nutzungen» bezeichneten Eignungsgebieten zulässig.
 3 Bei allen neuen SVN hat die ÖV-Erschliessung mindestens der Güteklasse C gemäss kantonaler Wegleitung zu entsprechen. Mit einem Verkehrskonzept ist die Abstimmung auf die Kapazität des übergeordneten Strassennetzes sicherzustellen und die Quartierverträglichkeit nachzuweisen. Die Kunden- und Besucherparkplätze müssen lenkungswirksam bewirtschaftet werden.
 4 Ausserhalb der Eignungsgebiete sind neue SVN nur mit einem Gestaltungsplan zulässig.
+9 Ergänzende Bauvorschriften

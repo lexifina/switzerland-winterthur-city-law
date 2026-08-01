@@ -14,3 +14,6 @@ g. Bahnfussweg (Z4GP, Kat.-Nr. ST9494 Teilparzelle): Sicherung öffentlicher Int
 h. Areal «Burger King» (W4/3.4GP, W4GGP, Kat.-Nr. TO3411): Stadträumliche Dichte erhöhen, Aussenraum aufwerten, Bezugnahme auf Strassenraum Zürcherstrasse.
 i. Areal Stadtwerk (Z4GP, Kat.-Nr. ST9892, ST9891, Teilparzelle ST9580, ST9275): Städtebaulichen Akzent zur Adressbildung an Zürcherstrasse setzen und hochwertigen Freiraum sichern.
 j. Areal «Migrol/Mc Donalds» (Z4GP, Kat.-Nr. ST9399, ST9469): Stadträumliche Dichte erhöhen, Aussenraum aufwerten, Bezugnahme auf Strassenraum Zürcherstrasse.
+2 Vorschriften für die Erhaltungszonen
+2.1 Kernzonen
+2.1.1 Allgemeine Bestimmungen

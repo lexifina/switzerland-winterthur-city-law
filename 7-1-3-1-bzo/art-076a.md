@@ -4,3 +4,4 @@ a. Gebäude in Gebieten mit Sonderbauvorschriften für Terrassen- und ähnliche 
 b. Arealüberbauungen, wenn die gemäss Regelbauweise zulässige Baumasse überschritten wird (Art. 64 Abs. 4 BZO). Bei Arealüberbauungen, die bereits überbaute Grundstücke umfassen, sind diese Anforderungen bezüglich der bestehenden Bauten zu erfüllen, soweit dies technisch möglich und wirtschaftlich zumutbar ist;
 c. Gebäude im Perimeter von Gestaltungsplänen, wenn die gemäss Regelbauweise zulässige Baumasse oder die Grundmasse der Zentrumszonen überschritten werden.
 2 Der Stadtrat ist befugt, bei Änderungen der Vorschriften und Standards gemäss Abs. 1 die jeweils aktuelle Fassung für massgeblich zu erklären.
+10 Schlussbestimmungen
