@@ -1,3 +1,4 @@
-# Art. 70a Dachgestaltung bei Attikageschossen
-1 Dachgeschosse über Flachdächern (Attikageschosse) müssen mit Ausnahme der nach § 292 PBG zulässigen Dachaufbauten ein Profil einhalten, welches auf den fiktiven Traufseiten unter Einhaltung der zulässigen Gebäudehöhe maximal einen Meter über der Schnittlinie zwischen der Aussenkante der Fassade und der Oberkante des fertigen Fussbodens des Attikageschosses unter 45° angelegt wird.
-2 In den 2- und 3-geschossigen Wohnzonen in Hanglagen darf, sofern die Höhendifferenz zwischen der talseitigen und der bergseitigen Fassade mehr als 2 m beträgt, das Attikageschoss bis zur hangseitigen Fassade zurückversetzt angeordnet werden, wenn auf dieser Seite unter Einbezug des Attikageschosses die zulässige Gebäudehöhe eingehalten wird und seine Fläche nicht grösser ist als die eines Attikageschosses gemäss Abs. 1.
+# Art. 70a Dachgestaltung
+1 …
+2 Bei Attikageschossen in den 2- und 3-geschossigen Wohnzonen in Hanglagen darf, sofern die Höhendifferenz zwischen der talseitigen und der bergseitigen Fassadenlinie mehr als 2 m beträgt, das Attikageschoss flächengleich bis zur hangseitigen Fassade zurückversetzt angeordnet werden, wenn auf dieser Seite unter Einbezug des Attikageschosses die zulässige traufseitige Fassadenhöhe eingehalten wird.
+3 In Kern- und Quartiererhaltungszonen dürfen Dachaufbauten insgesamt nicht länger als 1/3 der betreffenden Fassadenlänge sein.
