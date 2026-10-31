@@ -1,0 +1,14 @@
+The law texts in this repository are official texts of the city of Winterthur (Stadt Winterthur), taken from its
+systematic collection (SRS, https://winterthur.tlex.ch/).
+
+Swiss law does not protect them by copyright. Federal Act on Copyright and Related Rights (URG, SR 231.1),
+Art. 5 para. 1: "Keinen urheberrechtlichen Schutz geniessen: a. Gesetze, Verordnungen, völkerrechtliche Verträge
+und andere amtliche Erlasse; [...]" (Not protected by copyright: a. acts, ordinances, international treaties and
+other official enactments.)
+
+The city's own legal notice (https://stadt.winterthur.ch/rechtliches) says the same of law texts: "Die im Internet verwendeten Informationsmittel (wie Texte, Illustrationen, Logos, Fotos, Videos, Ton-Dokumente, Grafiken sowie das Layout) der Stadt Winterthur sind immaterialgüterrechtlich und insbesondere urheberrechtlich geschützt, soweit sie nicht (wie z.B. Gesetzestexte und Gerichtsurteile) durch einschlägige Rechtsnormen ausdrücklich vom Schutz ausgenommen werden."
+
+This repository is not an official publication; the binding text is the one the city publishes as binding.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the tools) are
+dedicated to the public domain under CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/

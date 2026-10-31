@@ -1,0 +1,11 @@
+{
+  "path": "ch-zh-winterthur",
+  "code": "CH-ZH-WINTERTHUR",
+  "name": "Winterthur (city)",
+  "level": "municipality",
+  "parent": "ch-zh",
+  "repo": "https://github.com/lexifina/switzerland-winterthur-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (150 acts, 317 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

@@ -1,0 +1,3107 @@
+{
+ "country": "CH-ZH-WINTERTHUR",
+ "acts": [
+  {
+   "slug": "1-1-1-go",
+   "short": "GO",
+   "title": "Gemeindeordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 94,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-1/versions/442",
+     "sha256": "e37eb38d2fdb78b82e2db5f0dcda1870ed53c99cabda2dd08807198426c09cd5"
+    },
+    {
+     "from": "2019-05-15",
+     "units": 99,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-1/versions/555",
+     "sha256": "dc4407935c01ee1cf22c3c74e66e225fd267f66ebf7dd8e851e0fb69d5ddda34"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 78,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-1/versions/932",
+     "sha256": "cce149776a15c77e17e44bc79da802dac4756811b9c526633e932de271665ac0"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 77,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "4bf5301818477a85b0ced1247ffb3cf2cf17d1a1d047dcbc2749e213e45598cc"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-3",
+   "short": "SRS 1.1-3",
+   "title": "Verordnung über die zeitliche Beanspruchung und Entschädigung der Mitglieder der Schulpflege",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.1-3",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-3",
+     "sha256": "c76d0b847a0cb335648a26f9fd0b21a9c663631829575516d394571ed09e9c43"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-5",
+   "short": "SRS 1.1-5",
+   "title": "Reglement über die Entschädigung an Behördenmitglieder",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.1-5",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/164",
+     "sha256": "4ccd78787c68c463d68461cb201c1947d25217ce42556d3234babcb2afa59155"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/556",
+     "sha256": "3e8cce965564464a488275dd5f6b6c58f2ee1dcd70775e9dffc8e9e89a61da1e"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/557",
+     "sha256": "610f101b35ed9fc05112b3a253fac4bce915db9d6a66fd49e321c1ea5909c8a0"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/577",
+     "sha256": "710939381b145a53d54b0f25995e3074207ca4b3af83305d6d5861fd56708d2a"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/797",
+     "sha256": "8e9b3bc4982d1ca14b12f1280ec3df31faeec54f35abf05d24b87f748a888ba5"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/870",
+     "sha256": "4d9f9a9fa9a9b5e7cce7c8f17d1cc475a34470316555b99685365438d9d9224e"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5/versions/890",
+     "sha256": "591fcebd0de5856b555fe8027d2266263f337523070d035bf0dc87416ac0b4ab"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5",
+     "sha256": "eb52ce7b97b8ac1eea8da96caffa458e91e0f81807d761496c39a575385f6063"
+    }
+   ]
+  },
+  {
+   "slug": "1-1-5-1",
+   "short": "SRS 1.1-5.1",
+   "title": "Besondere Entschädigungen an Mitglieder städtischer Kommissionen und Institutionen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.1-5.1",
+   "versions": [
+    {
+     "from": "1989-03-29",
+     "units": 2,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.1-5.1",
+     "sha256": "53cb2aeefd8cf7aad99fec5f31a76016dec182cb042cab7dcc50d4b5f9cb61ad"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1-ov-parl",
+   "short": "OV Parl",
+   "title": "Organisationsverordnung Stadtparlament",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 91,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1/versions/377",
+     "sha256": "14407a3f814467b146edd15415188b23d2384fbcedae1f6605b2560ab40f4e2a"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 92,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1/versions/508",
+     "sha256": "6c4e6ecd2a9844336fe9c91f9dcc1d042cb462cd142a43b4990dfaee3e8891b8"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 92,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1/versions/532",
+     "sha256": "ca31485df4cc800cc7e9ed65dfef4d5ac96342860fa20511999fe7fb2c183154"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 92,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1/versions/728",
+     "sha256": "a9a6053ed6c2c006564d0ac9d6cb8e7d145188a63304eb6fc304032bdaf6d9ea"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 96,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1/versions/731",
+     "sha256": "77fbf470cea5513d18c1982d2ebdc965193ee0ee04dc7a0a8894212eab998ecf"
+    },
+    {
+     "from": "2022-05-16",
+     "units": 106,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "7fb72ef4be90c826c29a4d1839582897ed212f94ef2968e34f80127520560725"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-1-gescho-sr",
+   "short": "GeschO SR",
+   "title": "Geschäftsordnung des Stadtrats",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.3-1",
+   "versions": [
+    {
+     "from": "1991-04-01",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.3-1/versions/372",
+     "sha256": "22f44ee4732eadf9a2b5114c531f5c931c5aa27477ad7d506d7f223373e4cc32"
+    },
+    {
+     "from": "2022-03-01",
+     "units": 49,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.3-1",
+     "sha256": "f347d012a5e6abb8c728316085cb3e2f6d7e3fd5097d506f24fcf3a92e734e42"
+    }
+   ]
+  },
+  {
+   "slug": "1-3-5",
+   "short": "SRS 1.3-5",
+   "title": "Beschluss des Grossen Gemeinderates betr. Löhne und Spesenentschädigungen der Mitglieder des Stadtrates",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.3-5",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 7,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.3-5",
+     "sha256": "2d85d373a5ea9cd27405d2da171ff093d410c1e3cf337a3808ccf4b91b95e630"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-1-organisationsverordnung-stadtverwaltung-ovs",
+   "short": "Organisationsverordnung Stadtverwaltung, OVS",
+   "title": "Verordnung über die Organisation und die Aufgaben der Stadtverwaltung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.1-1",
+   "versions": [
+    {
+     "from": "2016-10-25",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-1/versions/476",
+     "sha256": "366d0fbc8bacdd58a13c92af7fd651c8e711de62b6f5e1cda3f7ab7e9207f909"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-1/versions/835",
+     "sha256": "72b291fb1b1b12f6071ee220a8aeb53132c8232ce6200ccdecfc8a48c4f26196"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-1/versions/900",
+     "sha256": "9e88ed34469beeb63873462c03891d54fd27aa6ab9349fdc3db8e1e6829b8f40"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 18,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-1",
+     "sha256": "a40179e6d01212a102b210d251efcb34cd1818696d747b7e154dae1f855d5c57"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-2",
+   "short": "SRS 1.4.1-2",
+   "title": "Auskunftserteilung von Beamten an die Mitglieder des Grossen Gemeinderates",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.1-2",
+   "versions": [
+    {
+     "from": "1986-04-16",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-2",
+     "sha256": "7b4b331b31d7cb04c234364954a8f5a5f5a189f94c8aebe8fd6d7fa378c0de3d"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-3",
+   "short": "SRS 1.4.1-3",
+   "title": "Verordnung betreffend Sprachdienstleistungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.1-3",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-3/versions/602",
+     "sha256": "c62f631962bcadd2ed7252aa617e8780b830fc32ac8b370dae9464dfa15cf0e9"
+    },
+    {
+     "from": "2024-11-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-3",
+     "sha256": "b9b92c1829af7cf8953be8e7bddbff0c9fda36cf63f2f03cade3ce0d3669c348"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-8",
+   "short": "SRS 1.4.1-8",
+   "title": "Reglement des Migrationsbeirats",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.1-8",
+   "versions": [
+    {
+     "from": "2014-07-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-8/versions/373",
+     "sha256": "2f68f639d2c5e9bfc36b9a4c41e2bfdb24f89f8916df432a97d0b001e1b305ee"
+    },
+    {
+     "from": "2018-12-01",
+     "units": 14,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-8",
+     "sha256": "5b8d3cb008fcc015be33eee1da659b2bee378cd219179d7f17a2ebb137491e9b"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-1-9",
+   "short": "SRS 1.4.1-9",
+   "title": "Reglement der Mitwirkungsgruppe von Menschen mit Behinderungen WINklusion",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.1-9",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.1-9",
+     "sha256": "2173b9dc9e42521b118a6a5ee97bb3d896eddcf80561f76246f7060b505c2f10"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-1-pst",
+   "short": "PST",
+   "title": "Personalstatut",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 91,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/683",
+     "sha256": "5abfb75a2e1c7f1960a9f66ab806300bae10913e3b296bd375775bedb6760a92"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 92,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/684",
+     "sha256": "4825191fcac2964bc9740fc360461876151adc4dea05f41f50a59720e02e75e4"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 92,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/688",
+     "sha256": "7d160bea7068580c9043e960eb99b032b217767d5a295c808540853c275595c1"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 93,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/764",
+     "sha256": "770946e2ecc1774133865f8a9de4d358d9c39c10428f6a5fdd4c73f084736ef8"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 93,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/777",
+     "sha256": "c18bb68b5b03ae3e8c368d9879316ca836badf4fc08fba24bc33e0714f283351"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 93,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1/versions/825",
+     "sha256": "3f2be7c55d5e03d51ac47fe2f189d84eb837e08935ba4b457b7b41737b47f289"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 93,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1",
+     "sha256": "8d8312814c11c91c826a0aaecd50e4afdec2173be4d81573b01daa91d48d7877"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-1-1-vvo-pst",
+   "short": "VVO PST",
+   "title": "Vollzugsverordnung zum Personalstatut",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-1.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 138,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/526",
+     "sha256": "2a2d04cefa6a3b8af6b6867361222a608aa34216d3a44168587701762b28d971"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 139,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/579",
+     "sha256": "bd64b252baaba5109daa14325d61d7d500d5a9b166ed3480fca541fac13be235"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 140,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/710",
+     "sha256": "a16fb110b98c4e11c912d92384d379a737c4d2d969bf7e8b71a1136008d93ade"
+    },
+    {
+     "from": "2021-09-01",
+     "units": 141,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/713",
+     "sha256": "d02403f82cc6465e1bb115503c6878216ba65cd1627717272523808f57b3fff9"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 141,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/823",
+     "sha256": "3661b9ff771cb7a2e33982de0c046f3912b9042c855987a473afcb69c685ae41"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 142,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/896",
+     "sha256": "a93a115e8fe9cb03d904f19e385f352ebb4877c592e79331acd38a71cdba612b"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 142,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1/versions/912",
+     "sha256": "4978759654d0e717ed2112c1db2652178a55098302066682738c3035429de4e8"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 146,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-1.1",
+     "sha256": "8654005af4274717001e28a7f8a3a45ba308f7fc64c4a8d9f5f607f8ba529469"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-3",
+   "short": "SRS 1.4.5-3",
+   "title": "Verordnung über die Nutzung von E-Mail und Internet sowie die elektronische Ablage privater Dokumente",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-3",
+   "versions": [
+    {
+     "from": "2012-04-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-3",
+     "sha256": "1c62bd6ab0ee3bab51a3c8c9a8ad52c4d4590710628627f48f889713d763ad51"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-4",
+   "short": "SRS 1.4.5-4",
+   "title": "Parkplatz-Reglement für das Personal der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-4",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-4",
+     "sha256": "32665bddb4b2d6a0fda32f7dc253521f077ecc87ff28316df5e96e2500c72c7d"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-5",
+   "short": "SRS 1.4.5-5",
+   "title": "Kantonale Schlichtungsstelle für Streitigkeiten über Diskriminierungen im Erwerbsleben",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-5",
+   "versions": [
+    {
+     "from": "1997-05-26",
+     "units": 2,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-5",
+     "sha256": "07fd278e54885cd6d01c069168360c7b04af6a175f0a7dd98f2e644308c224a1"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-8",
+   "short": "SRS 1.4.5-8",
+   "title": "Besoldungsordnung für die städtischen Lehrpersonen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-8",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8/versions/386",
+     "sha256": "80a5c0ec71713f20dda1a5fde814424e7fa6c78c2bfb4f8d6060192105b5a258"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8",
+     "sha256": "1fe8d271a5b96db9ffb2c1372c938dcc09787605912d60f8aa4b5e45e8087e4e"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-8-1-vvo-lehrpersonal",
+   "short": "VVO Lehrpersonal",
+   "title": "Vollzugsverordnung für das Lehrpersonal und weitere schulische Funktionen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-8.1",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 36,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/544",
+     "sha256": "97d53cbcdf62fb8ca2c639ff155abb3bbb82c3014248e977825e1c41d72d1dc0"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 39,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/546",
+     "sha256": "fccf81ef041035f4754fa70e56b9602de450fd8a14bfba98c50dd7627534e35d"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 39,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/547",
+     "sha256": "83d1d015368de562b1fab22bd23cec15ced8b5b73edffccec60a07771b8d40cb"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 40,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/575",
+     "sha256": "a02ef8db9c770d82c6fa86827d8b5525c6e221be8c90ac88b3b944bbd6f5fc32"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 42,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/754",
+     "sha256": "955b05ddff96c2c7643c1d9d67188179a53f9b1d851374d6efadee1979391213"
+    },
+    {
+     "from": "2020-10-05",
+     "units": 42,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/755",
+     "sha256": "ac89686ebc0a85c84c5d7507f2ba125e7ba6c014cea27a73241ef310881ccb9c"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 42,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/756",
+     "sha256": "34e3f515a8807787991615a2da7a79cffccc06637a6d21f0fa6f68a10f6f98d0"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 43,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/783",
+     "sha256": "081e2231c6207ac32393aad6e1bd93cf5591cb1cebeb23947a813ff9cc506d0e"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 44,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/857",
+     "sha256": "dc4c77e5db63e3d1c52317e0b550b507117842ce85e0b130c323be3247d433f9"
+    },
+    {
+     "from": "2023-09-01",
+     "units": 44,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1/versions/858",
+     "sha256": "57555cba0f0274f953c34da37d99a36b93a6cbaf2ff912b3e874d6dcfc4e8002"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 44,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.1",
+     "sha256": "abf8f64c851c1330f54295ab082075b38654fc32bd6a29d299b26f6ec7de5104"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-8-2-spesenreglement",
+   "short": "Spesenreglement",
+   "title": "Reglement über den Ersatz Dienstlicher Auslagen von Lehrpersonen und Schulleitungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-8.2",
+   "versions": [
+    {
+     "from": "2020-08-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.2/versions/604",
+     "sha256": "c9cf93619ffd30c03ca6db3be66decb33d0d675262b7656210876939036453b4"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-8.2",
+     "sha256": "4389fdd722ddfeca54f230021bf3a793e7d2b93005434e33c96acc4b252188f5"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-5-9-pvo-aufsichtsstellen",
+   "short": "PVO Aufsichtsstellen",
+   "title": "Personalverordnung für die städtischen Aufsichtsstellen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.5-9",
+   "versions": [
+    {
+     "from": "2025-11-01",
+     "units": 34,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.5-9",
+     "sha256": "5c8f389c0224cc894aada185d3ef3d139dc0815e5375c274a0b46e7bbd9e7a20"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-8-1",
+   "short": "SRS 1.4.8-1",
+   "title": "Verordnung über die Pensionskasse der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.8-1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.8-1/versions/824",
+     "sha256": "eff9edf82a20c213dfabee5b817f1c3d0a553c39d48ff8f0db35324d73467d6f"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.8-1",
+     "sha256": "f919cec595d882e3f87d9c3f3afcebd00f6de60d675c713d0915d400aa1396e4"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-8-1-1",
+   "short": "SRS 1.4.8-1.1",
+   "title": "Stiftungsurkunde der Pensionskasse der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.8-1.1",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.8-1.1",
+     "sha256": "4ccfe4cf7d2e5fb99b50e152369b7660185d36cd4869b97215d36dfa6abda6a4"
+    }
+   ]
+  },
+  {
+   "slug": "1-4-8-5",
+   "short": "SRS 1.4.8-5",
+   "title": "Verordnung über die Pensionsversicherung der Mitglieder des Stadtrates",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.8-5",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 6,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.4.8-5",
+     "sha256": "d41a1c522ab5fc017d39dea8cd661499047168664572c9059b73324ba1ed2274"
+    }
+   ]
+  },
+  {
+   "slug": "1-5-1",
+   "short": "SRS 1.5-1",
+   "title": "Verordnung über die städtische Ombudsstelle",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.5-1",
+   "versions": [
+    {
+     "from": "2010-11-01",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.5-1/versions/444",
+     "sha256": "d4bbc978899691cedbf19146f9a10be52d0413eff231deb3e1f6fd1ed17dd0b0"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.5-1/versions/729",
+     "sha256": "c8489807e5345a163ebb962b065bcfa217701c38eab33445f777ea9807b10ff0"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.5-1/versions/730",
+     "sha256": "55feedc66f216cc170423cd553f70556413bf134bbefc0b5ff8a9c40cce347b8"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.5-1",
+     "sha256": "9beb8c4bae83f334aa4c2267f739809f834b130f705a4d517336151e8b79cf4e"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-vo-burgerrecht-winterthur",
+   "short": "VO Bürgerrecht Winterthur",
+   "title": "Verordnung über das Bürgerrecht der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.6-1/versions/169",
+     "sha256": "483807b8ad47d03c32a4c8211cdb39d66aac207b5383e31aa98f64fe348a655d"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 7,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "eaf40264363ca1c16ff8cbd3b36ba7165566bb53d1c0a28435e22549abe432c2"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1-vvo-burgerrecht",
+   "short": "VVO Bürgerrecht",
+   "title": "Vollzugsverordnung zur Verordnung über das Bürgerrecht der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.6-1.1",
+   "versions": [
+    {
+     "from": "2013-09-01",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.6-1.1/versions/361",
+     "sha256": "090224492ad70365a019ad595bb89cc3c4e20708f71ea7c81eb5fd1129953035"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.6-1.1/versions/516",
+     "sha256": "3b7fe99fc58f74e9cfd484358dc320235e5565561823bd3ad244f3f631b35462"
+    },
+    {
+     "from": "2025-09-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.6-1.1",
+     "sha256": "25325bccba8acdea49fcff2d972b896d13ff32d91a569cdaa50c954110769c5b"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Verordnung über die Wahlen und Abstimmungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "1974-03-01",
+     "units": 17,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.7-1/versions/374",
+     "sha256": "7aedc0e499a47857c5b38316df9358623be99f73909f3f5749b2bb964f056fa9"
+    },
+    {
+     "from": "2024-05-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.7-1/versions/889",
+     "sha256": "eea5f71326054a16f5314bad6fce6537ccdd0eeb762d443e55a4910dd875b953"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "536fc255b3c7a927c5bab4dcae07c36d0feb137c695735980598f9e93e75d1d9"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-1",
+   "short": "SRS 1.7-1.1",
+   "title": "Vollzugsverordnung über die Wahlen und Abstimmungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.7-1.1",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 18,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.7-1.1/versions/891",
+     "sha256": "e86c147e2d77b5e7a1bc29ffde62e9441cd0bf8ac875adca02811afab2d0afb8"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 17,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.7-1.1",
+     "sha256": "08dae89148005c9ca8fbc1e9c5401be2b3f748229c463a5b3cdee29f92a27921"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-1",
+   "short": "SRS 1.8-1",
+   "title": "Verordnung über das Bestattungs- und Friedhofwesen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.8-1",
+   "versions": [
+    {
+     "from": "1979-06-11",
+     "units": 56,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.8-1/versions/433",
+     "sha256": "e1209e57369bfa688db4edcd7a1bedfcf6ff384a1cd2b18c76511ae0d7e2c306"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 56,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.8-1",
+     "sha256": "1dfc1914358190980bd1acaa735d16ea7b7196b20cd3f9080fbac5da080c167e"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-1-1",
+   "short": "SRS 1.8-1.1",
+   "title": "Stadträtliche Ausführungsvorschriften zur Verordnung über das Bestattungs- und Friedhofwesen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.8-1.1",
+   "versions": [
+    {
+     "from": "1989-01-01",
+     "units": 6,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.8-1.1",
+     "sha256": "649cb2d766d53da57a039049ac8901edd0d781ccf54d3ffc0b9e118ec46cfa9a"
+    }
+   ]
+  },
+  {
+   "slug": "1-8-3-grabmalverordnung",
+   "short": "Grabmalverordnung",
+   "title": "Ausführungsrichtlinien über das Aufstellen von Grabmalen auf den Friedhöfen von Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.8-3",
+   "versions": [
+    {
+     "from": "1997-12-15",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/1.8-3",
+     "sha256": "d9da6bd7b0e40b5a3f74ec60d9c15d9694d91a4fa4b8c6b76181792b9e7c06d0"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Vorschriften über Gebühren, Auslagen und Entschädigungen des Stadtrichteramts als Übertretungsstrafbehörde",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "53b8d0a31266ad43c3033cad3ccef57eb42e0efa880fda237ae69e6e353e6101"
+    }
+   ]
+  },
+  {
+   "slug": "3-1-1",
+   "short": "SRS 3.1-1",
+   "title": "Verordnung über die/den Datenschutzbeauftragte/n der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/3.1-1",
+   "versions": [
+    {
+     "from": "2010-08-30",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.1-1/versions/174",
+     "sha256": "78fd3007333dd845e8ed1cc10d0bf55c9d0d4a46162598bd7297057c83a74a45"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.1-1/versions/505",
+     "sha256": "4d787950ed844636fd1dfbd8babcf36dad463c26df8d33d5a3f30b5e5cb236aa"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.1-1",
+     "sha256": "2b37565a703b9d75f417f1611c6c86efdffd7dfa0af9d0acab4bd8ba8aeb49c6"
+    }
+   ]
+  },
+  {
+   "slug": "3-1-2",
+   "short": "SRS 3.1-2",
+   "title": "Verordnung über die Bearbeitung besonderer Personendaten",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/3.1-2",
+   "versions": [
+    {
+     "from": "2013-09-16",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.1-2",
+     "sha256": "8839ab4cdae859660df8e64d2c8de56dd68cd2f5bb52fba5713adc0259b29a80"
+    }
+   ]
+  },
+  {
+   "slug": "3-2-1-informationsverordnung-infv",
+   "short": "Informationsverordnung; InfV",
+   "title": "Verordnung betreffend die Information der Öffentlichkeit über städtische Belange",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/3.2-1",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.2-1/versions/694",
+     "sha256": "0ce1c9295f5a4e35ccfc4fd3cbe52c66e7b16f04f2e9ae02b3617439baafc521"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.2-1/versions/780",
+     "sha256": "f685f0fd14a022009d3e9e63659545325e48938cc62c194d40b88cb8762c3bd5"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.2-1",
+     "sha256": "bc6733efdefdfc1fe14f9d65121a89da957c4b59a224904a8faa7f2786dc0eb2"
+    }
+   ]
+  },
+  {
+   "slug": "3-2-1-1-vvo-infv",
+   "short": "VVO InfV",
+   "title": "Vollzugsverordnung zur Informationsverordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/3.2-1.1",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 62,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.2-1.1/versions/695",
+     "sha256": "33f5cea45c23f2fb5ba0428987c925621d8e15e28e2a56d998189ccb0dcc7a48"
+    },
+    {
+     "from": "2025-04-01",
+     "units": 64,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/3.2-1.1",
+     "sha256": "1b59f8b95d1c8759a7667bb8c3421199a1e7328d574c16ec53a3e533d5081825"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Verordnung über die Volksschule in der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2010-08-01",
+     "units": 30,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1/versions/249",
+     "sha256": "93fe00cb2e44aeb441ec2c54c2b8a0b0dcb04c71940bb8d0650b9547b6aa8b1c"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "a590db71ab6bd5b298bf7f699147c309f8cce64eb460b969f596819c3b435e21"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1-ost",
+   "short": "OSt",
+   "title": "Organisationsstatut für die Volksschule in Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 50,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/543",
+     "sha256": "fe3c5e6bef202b4af474c01b507ac95cb81a0011d9705502c344e8a64fe8f659"
+    },
+    {
+     "from": "2022-08-22",
+     "units": 70,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/790",
+     "sha256": "2ab923b1f03cb7830a9e29caee1617b7f13a74a729dd257f78a20b199d33ac26"
+    },
+    {
+     "from": "2024-03-12",
+     "units": 72,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/884",
+     "sha256": "801e375913007070313d55211016823240461b75ce1d985d7c6cb1ae9b5204fd"
+    },
+    {
+     "from": "2024-08-19",
+     "units": 71,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/901",
+     "sha256": "741a2faecdda2172d78394fe7dfd0a66b1d27988d4ff51d8c576be377e1e13dd"
+    },
+    {
+     "from": "2025-03-01",
+     "units": 71,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/924",
+     "sha256": "1cc4f4233b61a187a24f2847b8bab357ca3807f149a9eb40597c99b2f09b2cab"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 71,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "9df28ac5070801b47787b9833f632f884513eb8421826ef0e2428b943a56c6ef"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-2",
+   "short": "SRS 4.1-1.2",
+   "title": "Finanzstatut für die Volksschule der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-1.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 36,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.2/versions/850",
+     "sha256": "1104044187a6b5a8050f7a209d86553c1caba598130a371bfe7a5598a7277f1e"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 43,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.2/versions/852",
+     "sha256": "cf87baa9156c557a2055dbfdae5ea24183010b680bf8e1983dd0b1d20bf69070"
+    },
+    {
+     "from": "2023-08-21",
+     "units": 43,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.2/versions/860",
+     "sha256": "d58ad5563ba191b1d56dba84ee78d61a947cc05c6276dfb6894c2283a0cd614b"
+    },
+    {
+     "from": "2024-03-12",
+     "units": 43,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.2/versions/883",
+     "sha256": "ddfb0d4618b11db589d32ed4a380b7318b05f3ff09e62f00b3fc9260b3e27055"
+    },
+    {
+     "from": "2024-08-19",
+     "units": 43,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.2",
+     "sha256": "23cfeb2d3742adea6939825975a7a9ecc55efd220b50b23ac9982f68705ead61"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-5",
+   "short": "SRS 4.1-1.5",
+   "title": "Reglement über die Übernahme von Kosten von Kunst- und Sportschulen durch die Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-1.5",
+   "versions": [
+    {
+     "from": "2019-08-19",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.5/versions/550",
+     "sha256": "12685f7f56daa57136a439f88d25e13ed07da1f3b00ddb17b6dabd382707ef0b"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-1.5",
+     "sha256": "6cb90053ce97fb56a6a87e040a3ad77193c5137ebc5b528f7ecd9ddc71624bee"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-4-2",
+   "short": "SRS 4.1-4.2",
+   "title": "Reglement über die Mitarbeiter/innenbeurteilung der Lehrpersonen in Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-4.2",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-4.2",
+     "sha256": "f377ca7971c73def874f57c9f8ba0d89b3e51e8862c4477139cd46a5798add66"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-5",
+   "short": "SRS 4.1-5",
+   "title": "Reglement über die Schuldienste in der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-5",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 37,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-5",
+     "sha256": "7fda286723cc8a5bc07404550db843ff165eee2680ab1ed7a3cf11843a6da71c"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-7",
+   "short": "SRS 4.1-7",
+   "title": "Sonderpädagogikstatut der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-7",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 35,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-7/versions/803",
+     "sha256": "af11d9360f9f97e8cdf91889be497c3df9e2c73b15bad57c9d5c44719676f660"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 39,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-7/versions/804",
+     "sha256": "6b4ba77831a21a78cd7a81b7c4babdfabb7fc84d0157a1d244292edd193e7487"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 35,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-7/versions/845",
+     "sha256": "95dc3eb4dd5134e199775968ff028258ac165d913836f39cb29735d5f28791e0"
+    },
+    {
+     "from": "2024-08-19",
+     "units": 35,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-7/versions/903",
+     "sha256": "366b56ebc81d0c7bb3e4e9ae56139b0b92ae4b80b86c6fdb62290895f0ad5730"
+    },
+    {
+     "from": "2025-08-18",
+     "units": 36,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-7",
+     "sha256": "c4b51e256258f7b6cf5a712caed8e030a3cc6b322e1c9e3c279bbdda9846d1f9"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-8-gescho-wsp",
+   "short": "GeschO WSP",
+   "title": "Geschäftsordnung der Schulpflege",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.1-8",
+   "versions": [
+    {
+     "from": "2026-08-17",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.1-8",
+     "sha256": "d341386dc7a441d8ebe5358af4c6ff45eb4b4abdf32c0a4c6d3dddec07a4a2cd"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-1",
+   "short": "SRS 4.2.1-1",
+   "title": "Reglement über die Mechatronik Schule Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.2.1-1",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-1/versions/341",
+     "sha256": "9d64c7ca5f61228c14d8fd6b9cb99cb82c231e6ceb286ec3408617b61b30d184"
+    },
+    {
+     "from": "2018-06-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-1/versions/342",
+     "sha256": "9a7824ff4bfa58c361f4ff2f2a640689c520992866b83396c6a2bfd5dc942aff"
+    },
+    {
+     "from": "2022-08-22",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-1",
+     "sha256": "7b36ae1ca0c3c7b60c0ccbefdaf58650d9640b25c7696ca7f5f52217a7cddb88"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-3",
+   "short": "SRS 4.2.1-3",
+   "title": "Reglement über die Schule für Berufsvorbereitung Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.2.1-3",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-3/versions/295",
+     "sha256": "29758be51e3374bf422407a54131486492f0122a6308296a889c794212acd549"
+    },
+    {
+     "from": "2022-08-22",
+     "units": 18,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-3",
+     "sha256": "79a04a24ea9fc54bf71cddecc1fed3977aae52dfa50989dfb9808d30c21ed808"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-3-1-beitragsreglement-profil",
+   "short": "Beitragsreglement Profil.",
+   "title": "Reglement über die Ausrichtung von Beiträgen an Angebote für fremdsprachige Schülerinnen und Schüler der Schule Profil. Berufsvorbereitung Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.2.1-3.1",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.1-3.1",
+     "sha256": "ac2632d387f662b68db3e88bb7561a957a10999ee779019758692f5bb4c5e1ec"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-3",
+   "short": "SRS 4.2.2-3",
+   "title": "Verordnung über die Sonderschulen der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.2.2-3",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 6,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.2-3",
+     "sha256": "b6c5b56805ae53e042222ff36b53b009586e2e756d53660133006d386577659c"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-3-1",
+   "short": "SRS 4.2.2-3.1",
+   "title": "Reglement über die Sonderschulen der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.2.2-3.1",
+   "versions": [
+    {
+     "from": "2022-08-22",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.2.2-3.1",
+     "sha256": "861e667018013d50c6a840a4ef48956d506b0c1e6a915871e6c1c5bbf5bede70"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Verordnung über die Schulzahnpflege der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.3-1/versions/257",
+     "sha256": "934c5d29151af8a35c969bc72f51c54fc9a56ac249969f6067fae40b89fb3d30"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "1bf3953f84586641c52166c39e19267ecf2c62a1851f3dda9e19c38b62bb664d"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Beitragsreglement für die Schulzahnpflege",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "8b24254c8b530f41a69aa80df2fb2f128b4ea9c73b6a880b92e2cf0256e36bb7"
+    }
+   ]
+  },
+  {
+   "slug": "4-4-1",
+   "short": "SRS 4.4-1",
+   "title": "Verordnung über Berufsbildungs- und Weiterbildungsangebote der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.4-1",
+   "versions": [
+    {
+     "from": "2018-03-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.4-1/versions/316",
+     "sha256": "949fb287cc4230edd9c5e5fbea13fd2ed803cf7b5bb9333e247e8c964f6fa4fb"
+    },
+    {
+     "from": "2022-08-22",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.4-1",
+     "sha256": "86539dbe587d99b13d77027348617baaff5c05f3d08f9f3e63122512bcd307d0"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1-kita-verordnung",
+   "short": "Kita-Verordnung",
+   "title": "Verordnung über die Kinderbetreuung im Vorschulbereich sowie in Tagesfamilien der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.5-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 23,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1/versions/262",
+     "sha256": "2c566f870c7b3be8e14191f067a4b1aa1bb72b8afc28be3dc9df6c10ede0f7db"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 23,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1",
+     "sha256": "e1f45b602779be3e365fa44e16267b8f42c31ca3826baae7d91a269125137749"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1-1-kita-reglement",
+   "short": "Kita-Reglement",
+   "title": "Reglement über die Kinderbetreuung im Vorschulbereich sowie in Tagesfamilien der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.5-1.1",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 36,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1.1/versions/391",
+     "sha256": "5244310131ad9eebe739a86532747f51ef8aeed041a6748b3644c8b284302080"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 37,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1.1/versions/573",
+     "sha256": "673cf7996192d341571e6eebc7edccd203ee51c051b821004c5fb36528637df8"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 38,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1.1/versions/844",
+     "sha256": "4d1869ad87d4eb375c08c2d461c2b92f667cbbdb9412c9a71fe75d6d87858f18"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-1.1",
+     "sha256": "e25c4929a2191ee4b49c8ec09fe788a13e7825e660cabc928c809fb9afa6b3e0"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-2",
+   "short": "SRS 4.5-2",
+   "title": "Verordnung über die Kinderbetreuung im schulischen Bereich",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.5-2",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-2",
+     "sha256": "b924eae365ebbde0b4220b1d962e11858b85cf8b86540f02acccf9bb716fa0eb"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-2-1-beirschu",
+   "short": "BeiRSchu",
+   "title": "Beitrags- und Betriebsreglement über die Kinderbetreuung im schulischen Bereich",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.5-2.1",
+   "versions": [
+    {
+     "from": "2016-08-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-2.1/versions/390",
+     "sha256": "5eb5ca160ffba3bfe5f0a08d13080a8adc12e15a7b97a301b833edf71868e838"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.5-2.1",
+     "sha256": "72850e1c7608aa2dde20d3638a2f51e5833362109ee7d59ba82a02a2d5efb3ea"
+    }
+   ]
+  },
+  {
+   "slug": "4-6-1-benutzungsverordnung",
+   "short": "Benützungsverordnung",
+   "title": "Verordnung über die Benützung von Schul- und Sportanlagen der Stadt Winterthur durch Dritte",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.6-1",
+   "versions": [
+    {
+     "from": "2008-08-01",
+     "units": 28,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1/versions/389",
+     "sha256": "049eb78374c2dc502bb1fe09b45b81e00383beaeef356f2ef52bd9053e7e5646"
+    },
+    {
+     "from": "2022-08-29",
+     "units": 28,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1",
+     "sha256": "d25b32c4504b7fd7db8e1b81eeca361f506cdb0c470f35d656ddfb79197c131f"
+    }
+   ]
+  },
+  {
+   "slug": "4-6-1-1",
+   "short": "SRS 4.6-1.1",
+   "title": "Betriebsreglement für die Schul- und Sportanlagen der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.6-1.1",
+   "versions": [
+    {
+     "from": "2015-02-01",
+     "units": 32,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1.1/versions/267",
+     "sha256": "4af5e73e13f843bec4f1c37e0d9c7ffb97acb7755dfb302ce9e5e1ee10c97ee7"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 54,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1.1",
+     "sha256": "b51733aff096c124dab91dd2ba6a4a8ba5c3c4d0f052f891702c942381b466d1"
+    }
+   ]
+  },
+  {
+   "slug": "4-6-1-2",
+   "short": "SRS 4.6-1.2",
+   "title": "Gebührenreglement für die Schul- und Sportanlagen der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.6-1.2",
+   "versions": [
+    {
+     "from": "2015-02-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1.2/versions/388",
+     "sha256": "49812fed32426627d192e1a0057fcf5f7c766bf487f85a1b2de61e019cbb8e7a"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 38,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.6-1.2",
+     "sha256": "d6039917977c29e95a5a76306001f65709df1b85f56db9e4e89c5d9fb5b629ba"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Verordnung über das öffentliche Bibliothekswesen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "1996-07-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "0bd41272ba272474fa318cf567427a1a5094cf5d24af99d99377b28fd6624adf"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1-1",
+   "short": "SRS 4.7-1.1",
+   "title": "Reglement für die öffentlichen Bibliotheken der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.7-1.1",
+   "versions": [
+    {
+     "from": "2014-02-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.7-1.1/versions/367",
+     "sha256": "7426fdeb45626fbdc47458d5db577da81404cbb5a9379a5b471119125296b48b"
+    },
+    {
+     "from": "2022-05-12",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.7-1.1",
+     "sha256": "bee14716d4d88e4918739ec6004a7aa9fa352356c2026090b28b42b8133f1613"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Reglement des Stadtarchivs Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "1981-10-02",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "209a302e1dd1517763a0a7f499c5aba6739ff1797a096cc45b3d4d911e2408bb"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2-1",
+   "short": "SRS 4.7-2.1",
+   "title": "Gebührenordnung Stadtarchiv",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.7-2.1",
+   "versions": [
+    {
+     "from": "2005-08-01",
+     "units": 6,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.7-2.1",
+     "sha256": "54166d0996fc4d4555dcc6740d964789211677135837b2de88ed00765d25593a"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Theaterverordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "7807594cbb0fec1a215753474c4e6ea2dd6237e1db11355b42e09791b28cc795"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-2",
+   "short": "SRS 4.8-2",
+   "title": "Verordnung über die Kulturförderung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/4.8-2",
+   "versions": [
+    {
+     "from": "2023-11-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/4.8-2",
+     "sha256": "8dff42a8bbed36b0296620dbb20e361f0d7ffb254a1f31b4e7614fe47abe03e7"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1",
+   "short": "SRS 5.1-1",
+   "title": "Allgemeine Polizeiverordnung der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.1-1",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 58,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.1-1",
+     "sha256": "2f8fff1a70e511ad51e084735edaa28048dca3c04b3077d22b8ce3f68a6132e5"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-1-1",
+   "short": "SRS 5.1-1.1",
+   "title": "Verordnung über das gemeinderechtliche Ordnungsbussenverfahren der Stadt Winterthur mit Anhang «Bussenliste»",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.1-1.1",
+   "versions": [
+    {
+     "from": "2010-10-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.1-1.1/versions/411",
+     "sha256": "d6aef8ee291a03a779383788c053885ff27c3f7e7986bec77c24d244443c8d4e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.1-1.1",
+     "sha256": "0e2347c872c8a47b2d13b72e08ba453b31d81ef62a8f9cc23578c198faf05e07"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-2",
+   "short": "SRS 5.1-2",
+   "title": "Gebührenordnung für die Stadtpolizei",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.1-2",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.1-2",
+     "sha256": "4d8250e6b3bd63208abadb3228cee81d7014697da58f506ee2e8045f39a0a786"
+    }
+   ]
+  },
+  {
+   "slug": "5-1-5-polizeireglement",
+   "short": "Polizeireglement",
+   "title": "Organisations- und Dienstreglement der Stadtpolizei Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.1-5",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 28,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.1-5",
+     "sha256": "a675a29c431ebc73dd70f897b96e9d74dd7c4bd17facbcac1ca25af9aa4cdcdf"
+    }
+   ]
+  },
+  {
+   "slug": "5-2-1-vosfo",
+   "short": "VOSFO",
+   "title": "Verordnung über die Städtische Krisenführungsorganisation Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.2-1",
+   "versions": [
+    {
+     "from": "2018-04-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.2-1/versions/228",
+     "sha256": "a07ba1c82730e405e6cd53f377a7ef80e40301cc6e9c23710f6d6eb14a99caaa"
+    },
+    {
+     "from": "2026-06-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.2-1",
+     "sha256": "c1425c82b4cd980ece69c21e4a5b873d5c1c719059eb5ff78db724531139101d"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Reglement über die Organisation der Feuerwehr",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "1982-06-25",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "4c69d29351f1b4fa1ce5ad47d7823856890b7d8637191ae77dd86e8c2b8d0e8b"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-2-drsiw",
+   "short": "DRSIW",
+   "title": "Dienstreglement Schutz & Intervention Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.3-2",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 32,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.3-2",
+     "sha256": "df4c6121ab5b7b35f4ec9b8f46334ff445f436c85e1349de5178fe26ef866a20"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-3",
+   "short": "SRS 5.3-3",
+   "title": "Gebührenordnung Schutz & Intervention Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.3-3",
+   "versions": [
+    {
+     "from": "2021-02-01",
+     "units": 14,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.3-3",
+     "sha256": "3bec5759e536783e396927258713acc12a10dd0bbc39a0f8f23dfa2699e01a8e"
+    }
+   ]
+  },
+  {
+   "slug": "5-4-1",
+   "short": "SRS 5.4-1",
+   "title": "Gebührenordnung für den Brandschutz",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.4-1",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.4-1/versions/321",
+     "sha256": "ba4992a486e57ec6721fb86316516168b2d00f24983ae651279d7264154a6106"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.4-1",
+     "sha256": "910a50c52b9f99da101b485b77bec81eee7b0c2547efb5d8db8d7b40fc2fc85d"
+    }
+   ]
+  },
+  {
+   "slug": "5-4-2",
+   "short": "SRS 5.4-2",
+   "title": "Gebührenordnung für die Feuerungskontrolle",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/5.4-2",
+   "versions": [
+    {
+     "from": "2007-10-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.4-2/versions/322",
+     "sha256": "21ddab68faf9724b3e5276985d2794b60c78dc6a682879054db7b693f6a6fde5"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/5.4-2",
+     "sha256": "3ea624a3aa21df1b1adebe4c3ada398fb4812bc66a0813adb623e0d6aa133a06"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Verordnung über den Finanzhaushalt der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2016-10-03",
+     "units": 34,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1/versions/465",
+     "sha256": "577b5a34ad53b31b91c0fc49d23d4b757f03576b0e20ec9cd88c4b1d0980307a"
+    },
+    {
+     "from": "2020-05-01",
+     "units": 34,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1/versions/591",
+     "sha256": "03557e4296782aed4162c7843eeb0136df869870b9c65ecc42b21cf73aec9f0e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 40,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1/versions/740",
+     "sha256": "dbe0dafbc746bc73fe3e7ad0cae8bed50a6adf2951c4734d053aa49f5d805ec3"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1-1-vvfh",
+   "short": "VVFH",
+   "title": "Vollzugsverordnung über den Finanzhaushalt",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.1-1.1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 94,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1.1/versions/466",
+     "sha256": "4a82a4760794d0083fbd57ca0fe66c2655532ecdade1b28680a45809adad958a"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 59,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1.1/versions/733",
+     "sha256": "a73042caaea5eecf89d9d7713e97150efa3b35d4242a7a25fe338c11b663db05"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 59,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.1-1.1",
+     "sha256": "970d0be78ec7571ec21733bc16efa000eba5c4b02d9465425c08091ee3528c57"
+    }
+   ]
+  },
+  {
+   "slug": "6-2-1",
+   "short": "SRS 6.2-1",
+   "title": "Geschäftsordnung des Steueramtes der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.2-1",
+   "versions": [
+    {
+     "from": "1998-06-01",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.2-1/versions/184",
+     "sha256": "2113e8108d6910077a456e5e7f36c0ee4c4505b247e588281ab752c529350c7e"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.2-1",
+     "sha256": "15840550a53553577c443e1aae85071e93e43923c5f5d5679ee1496bdcd983b3"
+    }
+   ]
+  },
+  {
+   "slug": "6-2-1-1",
+   "short": "SRS 6.2-1.1",
+   "title": "Gebührenverordnung für das Steueramt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.2-1.1",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.2-1.1",
+     "sha256": "20ff9d2b6ac6015c27f921b14a6280907ddda166af6412a6f33233b2d18dfe62"
+    }
+   ]
+  },
+  {
+   "slug": "6-3-1",
+   "short": "SRS 6.3-1",
+   "title": "Verordnung über die Kanzlei- und Verwaltungsgebühren",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.3-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.3-1/versions/800",
+     "sha256": "7abb038bf0fbcf08456e1fcd6ca991e92e7e2fac195a0188d0e5643c1a2974a1"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.3-1/versions/801",
+     "sha256": "8fe7b242d14760e6b44e0e425aded6021bc9043af46bebe081bd46dd94b80a05"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 25,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.3-1/versions/802",
+     "sha256": "0905dbc2be000adcc27d77482936a877fb9230ccba6b095bf57729650e4e1298"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.3-1",
+     "sha256": "8866f3d70a11085ec3678a7033ca67de9300e4f72b7fe279924e99371a5eb86f"
+    }
+   ]
+  },
+  {
+   "slug": "6-4-1-finanzkontrollverordnung",
+   "short": "Finanzkontrollverordnung",
+   "title": "Verordnung über die Finanzkontrolle",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.4-1",
+   "versions": [
+    {
+     "from": "2017-07-01",
+     "units": 28,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.4-1/versions/448",
+     "sha256": "60b09b008c3a4df75580af9878baa94b55d50bee5bccb44b799d811068276589"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 30,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.4-1/versions/603",
+     "sha256": "5098bfe486b26ece964beea73770ff8af3651580950a1560e2ffc9ae56a8be3e"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 29,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.4-1",
+     "sha256": "db93de2927ecc972847b5b5f83c941fde74677fa72ff6ae96afde942d65efc48"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-1",
+   "short": "SRS 6.5-1",
+   "title": "Verordnung über die Vergabe von Darlehen zur Förderung des gemeinnützigen Wohn- und Gewerberaums in der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.5-1",
+   "versions": [
+    {
+     "from": "2018-06-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.5-1",
+     "sha256": "39af43bc59c1c54af53a07d907cd46572f83796056d936d2a9572d99e01725a7"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-2",
+   "short": "SRS 6.5-2",
+   "title": "Beschluss des Grossen Gemeinderates betreffend Förderung des Wohnungsbaus und des Wohneigentums in der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.5-2",
+   "versions": [
+    {
+     "from": "1991-04-08",
+     "units": 3,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.5-2",
+     "sha256": "cad47236010da75d7f3db8af23147c11d2f9a46a52e4ed0cef07c218ca1623ed"
+    }
+   ]
+  },
+  {
+   "slug": "6-5-3",
+   "short": "SRS 6.5-3",
+   "title": "Verordnung zur Förderung eines vielfältigen Wohn- und Gewerberaumangebots sowie räumlicher Durchmischung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/6.5-3",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/6.5-3",
+     "sha256": "eedf3ae425d19419db3074230797509190c94b36079aaa36dcc23e8d8a4e54f2"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-1-bzo",
+   "short": "BZO",
+   "title": "Bau- und Zonenordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-1",
+   "versions": [
+    {
+     "from": "2017-06-16",
+     "units": 85,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1/versions/601",
+     "sha256": "387692b60b592068a9ad95568b70501c5b3b00cbfef2a027895ac446ceae9069"
+    },
+    {
+     "from": "2021-07-16",
+     "units": 86,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1/versions/700",
+     "sha256": "4469496f068333523b53424c2555a90b2f6db843e09b2b217351d9ceaf1ee4ee"
+    },
+    {
+     "from": "2022-06-15",
+     "units": 88,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1/versions/766",
+     "sha256": "8a401abee2d234e8e5e5312e60f0d3c79985c995bb46aa118612bb4d8600cbe8"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 88,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1/versions/972",
+     "sha256": "06cab3b86ed4bebfff36942dea24c16940540d8bf91cc75f91680b15f4ac09d7"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 88,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1/versions/977",
+     "sha256": "95cb08d43e716706e596efeda170c223273022d432620f39af4ea8b6fe63a720"
+    },
+    {
+     "from": "2026-10-15",
+     "units": 88,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1",
+     "sha256": "7ca09f1ff5d1a526d7d4df4405238e8cf94c140b5ace6c55b20212291f43c2a5"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-1-1-zusto-bau",
+   "short": "ZustO Bau",
+   "title": "Zuständigkeitsordnung für das Bauwesen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-1.1",
+   "versions": [
+    {
+     "from": "2021-07-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1.1/versions/712",
+     "sha256": "e6c5aa4366aaab49d5f1dae286592fb0eb28c389cd6fcc5861c87b5ec78213b7"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1.1/versions/838",
+     "sha256": "7e26e6a25888b537e3db5f79878a21ed76708eac23615e9056d42c853784f0a5"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1.1",
+     "sha256": "43fa2a5999017d93a73f6748ede0351248ec95f380f99b7c77110b98a564593f"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-1-2",
+   "short": "SRS 7.1.3-1.2",
+   "title": "Verordnung über den kommunalen Mehrwertausgleichsfonds",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-1.2",
+   "versions": [
+    {
+     "from": "2022-06-15",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1.2",
+     "sha256": "784ab64ead4b23d5b5d32842a0ac15ab37de371c5d9a413c15fba7cb40b61a68"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-1-3",
+   "short": "SRS 7.1.3-1.3",
+   "title": "Ausführungsbestimmungen zum kommunalen Mehrwertausgleich",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-1.3",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-1.3",
+     "sha256": "b15dc171884a50d21081919061517e4be2ddf8415837691999ca8d19e1fd1eeb"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-2",
+   "short": "SRS 7.1.3-2",
+   "title": "Verordnung über die Gebühren im Bauwesen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-2",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 32,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-2/versions/327",
+     "sha256": "168b9c2b6d3183df4d710d9a85794b1c267d3e5ecbf39341823a749503de6fa1"
+    },
+    {
+     "from": "2018-12-01",
+     "units": 32,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-2/versions/498",
+     "sha256": "c2840181a08b9ed919c589d1e8a7fbd127961a22029a7d0cbdb827d569454b48"
+    },
+    {
+     "from": "2024-07-01",
+     "units": 33,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-2",
+     "sha256": "62cb627163c4211e4eda35e393874a25859b95beb5c220e4648e7800674d8e06"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-4-parkplatzverordnung-ppvo",
+   "short": "Parkplatzverordnung, PPVO",
+   "title": "Verordnung über Fahrzeugabstellplätze",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-4",
+   "versions": [
+    {
+     "from": "1987-05-01",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-4/versions/213",
+     "sha256": "10b90a3dca72d6cf0218a7734ab378a015a3c9d5a7c8edd3ab921ae9a524f7c4"
+    },
+    {
+     "from": "2020-09-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-4",
+     "sha256": "bb91fa7cc5ea354b58500708e77fcdcd5008abf6f25d132514f7e436070ace10"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-5",
+   "short": "SRS 7.1.3-5",
+   "title": "Gebührenordnung für den baulichen Zivilschutz",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-5",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-5",
+     "sha256": "7857546432da9dec8ee9527d3e83ba75834ea4e75996dd0a4d1a7d6c0d1944a6"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-7",
+   "short": "SRS 7.1.3-7",
+   "title": "Richtlinien Gebäudebeschriftung Sulzerareal (Stadtmitte)",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.1.3-7",
+   "versions": [
+    {
+     "from": "2022-07-15",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.1.3-7",
+     "sha256": "6bef999dc0157aac6aae6f7379e8718f07eee75bb95360b1cf2370988b0511cb"
+    }
+   ]
+  },
+  {
+   "slug": "7-2-4-1",
+   "short": "SRS 7.2.4-1",
+   "title": "Schutzverordnung \"Siedlung Neuwiesen\"",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.2.4-1",
+   "versions": [
+    {
+     "from": "2022-10-08",
+     "units": 44,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.2.4-1",
+     "sha256": "08611d5a6421c587f8dbeb532b914644ed504d0d77ca51b9b4aeaccb4487a4bf"
+    }
+   ]
+  },
+  {
+   "slug": "7-2-4-3",
+   "short": "SRS 7.2.4-3",
+   "title": "Schutzverordnung betreffend den Fassadenschutz für die Wohnüberbauung St. Gallerstrasse / Mühlebrückestrasse",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.2.4-3",
+   "versions": [
+    {
+     "from": "2003-04-23",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.2.4-3",
+     "sha256": "84e29fc0586716099a70eb2f59253240746c6670d1d67ce5faca7eb466e67755"
+    }
+   ]
+  },
+  {
+   "slug": "7-2-4-4",
+   "short": "SRS 7.2.4-4",
+   "title": "Schutzverordnung betreffend Siedlung \"Bachtelstrasse\", Bachtelstrasse 101-123 (ungerade Nummern)",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.2.4-4",
+   "versions": [
+    {
+     "from": "2011-04-18",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.2.4-4",
+     "sha256": "041b51c4155f30776de65de67cd9fd25195d8f7a28682972bdcdc8e22448c85d"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Gebührenordnung für die allgemeine Baukontrolle",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "2854313d50b37e74208df7e31e037ca3b2dbec9f8dce46e6ca688323c6f29d35"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Gebührenordnung für die vorübergehende Benützung des öffentlichen Grundes für Bauinstallationen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 6,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "ee7cd03722e0f1f48c97ceb4dbca897d2d6d4a34e6214a4fc6f0ae71e3eff67c"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3",
+   "short": "SRS 7.3-3",
+   "title": "Verordnung über die Verrechnung von Leistungen des Geomatik- und Vermessungsamtes",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.3-3",
+   "versions": [
+    {
+     "from": "2020-12-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-3/versions/640",
+     "sha256": "a5d569fbebb859f6724bff44c5cd56cf9daea749d5dadd3ccb1ee38b4fde44d3"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-3/versions/686",
+     "sha256": "5e18ed4586ea7f97781641cf9de36763098aa40f95eb5be1161477ec16c812a1"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-3/versions/839",
+     "sha256": "afb90269a7d2198844ead47b683d2d61699018f872fe0d40a63df50580b275f3"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.3-3",
+     "sha256": "012f06d5caaac2f0119480bdfa5c3b8e15c037e15abf6a165217e10f9591c466"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-vvo-ml",
+   "short": "VVO ML",
+   "title": "Vollzugsverordnung zum Massnahmenplan Luftreinhaltung der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.4-3",
+   "versions": [
+    {
+     "from": "2024-05-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.4-3",
+     "sha256": "3d90f10727981b6b4d1850b1d9df46182c4da9bf9444c21512984ddc761a1463"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-4",
+   "short": "SRS 7.4-4",
+   "title": "Geschäftsreglement der Naturschutz- und Freiraumkommission",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.4-4",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.4-4",
+     "sha256": "d366efd6b4cfb46d57facf404083f039ef0c630f6a255051c0978d48969082f2"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-5",
+   "short": "SRS 7.4-5",
+   "title": "Verordnung über die Umwandlung von Strassenflächen in Flächen für Bäume und in Grünflächen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.4-5",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.4-5",
+     "sha256": "5890fb8324a24bd19dd86d7c10ac307f689625942a96b84da6c92a8bf6753e88"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-6",
+   "short": "SRS 7.4-6",
+   "title": "Verordnung über die Umwandlung von Strassenflächen in Flächen für Fussverkehr, Veloverkehr und öffentlichen Verkehr",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.4-6",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 4,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.4-6",
+     "sha256": "22cf4b34efa32308fd6e04ad2c436e38dc117712116ed561c3f9733e200f2872"
+    }
+   ]
+  },
+  {
+   "slug": "7-5-1",
+   "short": "SRS 7.5-1",
+   "title": "Verordnung über die Abfallentsorgung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.5-1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 30,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.5-1",
+     "sha256": "83a6528be2c5c6db35c8d172df441e44e8a1b46750a40a6575b16ba7a7b0b3de"
+    }
+   ]
+  },
+  {
+   "slug": "7-5-2",
+   "short": "SRS 7.5-2",
+   "title": "Ausführungsbestimmungen zur Verordnung über die Abfallentsorgung in der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.5-2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 31,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.5-2/versions/355",
+     "sha256": "a586cb000ad06ee4019cf5889fdbb51ffcb559473f7b30ffff88c2e9f769bf92"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 31,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.5-2/versions/663",
+     "sha256": "2b45b14bc53f682b2115c2fc9694f18596392a081b24a5487985e32664266ec9"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2-vec",
+   "short": "VEC",
+   "title": "Verordnung über das Energie-Contracting",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2017-10-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "3f74efa8fb1a43ad3b50040ddcb266280c153ef3c119d158dcbb62c86a760bd9"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-4",
+   "short": "SRS 7.6-4",
+   "title": "Reglement Förderprogramm Energie Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-4",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 29,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4/versions/426",
+     "sha256": "69d6ba40adf82c241148db6f6ebcb180995d40b0effdd619c7ed1f59b3dd9789"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 39,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4/versions/758",
+     "sha256": "2619b336538e9dd7b6e0bc9888b91bad538e8edd3b4b366a792df93670900b85"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 39,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4/versions/840",
+     "sha256": "1274346d5c63101901a23c498f60ae6c68e7a4a5f3b28d3e49ea0237bc85e6a7"
+    },
+    {
+     "from": "2023-10-01",
+     "units": 40,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4",
+     "sha256": "8a3bc7d71837a7522778105f3f539ec514869a083a8df765162ef9f6872fa5de"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-4-1",
+   "short": "SRS 7.6-4.1",
+   "title": "Festsetzung Abgaben an das Gemeinwesen für das Förderprogramm Energie im Gebäudebereich und die öffentliche Beleuchtung ab 1. Januar 2017 (§ 32 Abs. 3 VAE)",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-4.1",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 2,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4.1",
+     "sha256": "788f410d431990bc41feeffe74a9a4d389cfc8aa0b97c557499cd8e58aff5890"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-4-2-vvae",
+   "short": "VVAE",
+   "title": "Vollzugsverordnung zur Verordnung über die Abgabe von Elektrizität",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-4.2",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 3,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4.2/versions/815",
+     "sha256": "5f89bfc07b3b5c134f4203d3e67ca93b5bcdf16f2e22d1ce36d8a17971924ba2"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 3,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4.2/versions/907",
+     "sha256": "27d6a3e028e82c920c49a3e8c5aff196c18b240a286cb9420a21aa009d794921"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 3,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-4.2",
+     "sha256": "e747ae9d86f5a3a8cc6e10be13ffcba7474ac5002cd3f148b6474c12a7b8fb52"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-5-vae",
+   "short": "VAE",
+   "title": "Verordnung über die Abgabe von Elektrizität",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-5",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 59,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5",
+     "sha256": "5278692df03b88bfd21eaf420651d941d18eb7b53df243f0442f6e6bafba12d9"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 55,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5/versions/975",
+     "sha256": "43aaf238949f494710d8ce619d566dbd7f3785e180b495638bcaa9dfbd59b389"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-5-1-tarifo-e",
+   "short": "TarifO E",
+   "title": "Tarifordnung über die Abgabe von Elektrizität",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-5.1",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/581",
+     "sha256": "681cc6e04171d2ee7717b815636f4960f2c956bfb2463875d1549d814c85626f"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/669",
+     "sha256": "0bba5e209768e886b28faccaa63588e56246beb51802d4191cb18cfb039dde55"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/725",
+     "sha256": "4bbfec3c973e2792caf4b26cc48de154cec2cd97d0280a634ea2137814ee6826"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/799",
+     "sha256": "094d4add4d56318864f7771dfe2360bdb9889149d00487f8c6246b62799bce36"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 21,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/862",
+     "sha256": "3cb3c27c64c50fd454107976eaf72b22fbf4c90568f9656185576471347be654"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 22,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/921",
+     "sha256": "b8ea443a449b3286ea9b0793712a44850d53db1e65b3b8545c5beedc40e93431"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1",
+     "sha256": "af00916dfa9d0b0ce69439143a9cffd120062fcd4ed300ad8139be0b2c01778c"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 23,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-5.1/versions/981",
+     "sha256": "76d1177fc04fa9a52d9f294aef5d0ab3f1b54d7d8e534c5c5b4caf9b36a81f41"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-6-vag",
+   "short": "VAG",
+   "title": "Verordnung über die Abgabe von Gas",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-6",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 61,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6/versions/424",
+     "sha256": "8da1730a5bce6924c15a3a7c63853a7129670ebe302818a05139d46bd4247e3a"
+    },
+    {
+     "from": "2021-12-01",
+     "units": 61,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6",
+     "sha256": "6cc1f3044d46ad708de017fc8ec98447b6bc4a923b594e094ca897f619190092"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-6-1-tarifo-g",
+   "short": "TarifO G",
+   "title": "Tarifordnung betreffend die Abgabe von Gas",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-6.1",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 14,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.1/versions/492",
+     "sha256": "9d3055145ea2fe393fe3db638dd5bb99dbec6a6c081c2693f7dd9ca11b476494"
+    },
+    {
+     "from": "2020-04-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.1/versions/585",
+     "sha256": "302ea51e8f0bf889e0dc71f66fa58d60fcf12cad1a68c047c9c996a4d635c23b"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.1/versions/668",
+     "sha256": "6a96caadcb9806d021328f9f56e210bee839a77528a8457b5ff2ba0e5ddcab69"
+    },
+    {
+     "from": "2021-10-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.1/versions/711",
+     "sha256": "617a5bb9e865166c6a438439017a7481fa9937abf53364011e5de69f7ff06a2f"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.1",
+     "sha256": "fd13bc1646bd8ed716ceb88874950e7a54da6d81744b80b436944b944cb41c7e"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-6-2-vvag",
+   "short": "VVAG",
+   "title": "Vollzugsverordnung zur Verordnung über die Abgabe von Gas",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-6.2",
+   "versions": [
+    {
+     "from": "2023-07-01",
+     "units": 3,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-6.2",
+     "sha256": "59922cb83bd6e8030c7d64c587f2e7150468568e190490b725c3825c31cfc240"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-7-fernwarmeverordnung",
+   "short": "Fernwärmeverordnung",
+   "title": "Verordnung über die Fernwärmeversorgung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-7",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 68,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-7",
+     "sha256": "b6c03c64cd180801e826e522a527900c30650888c7ec5a9d2bfe95c9ec3a03ea"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-7-1-tvfw",
+   "short": "TVFW",
+   "title": "Tarif- und Vollzugsverordnung betreffend die Abgabe von Fernwärme",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-7.1",
+   "versions": [
+    {
+     "from": "1996-04-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-7.1/versions/425",
+     "sha256": "4ce0fb84ae77b7017891b64fd4346ee0841435bddc980397ebc0331dea43ecb4"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-7.1/versions/493",
+     "sha256": "d79ffce10ebd46f90fa649c2db16ccd730ffc98344840d617088afe31fca6878"
+    },
+    {
+     "from": "2025-10-01",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-7.1",
+     "sha256": "4bb86857ebbd74ebd94918f9167bcefbadb46f93e7c1ee9e68ab2ba0f389548f"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-8-telekomverordnung-tvo",
+   "short": "Telekomverordnung, TVO",
+   "title": "Verordnung über die Erbringung von Telekommunikations-Leistungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.6-8",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 15,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.6-8",
+     "sha256": "0b78d29940d1c464cf7fdab527ea5496b20c4db4dfc0df58acdae56665ffedf6"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-vaw",
+   "short": "VAW",
+   "title": "Verordnung über die Abgabe von Wasser",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 66,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "d0bd215f1e31f1ba049e6d6749f381274b7c521a69aa09f858b9a210d1c87b09"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1-1-tarifo-w",
+   "short": "TarifO W",
+   "title": "Tarifordnung über die Abgabe von Wasser",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.7-1.1",
+   "versions": [
+    {
+     "from": "2016-07-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-1.1/versions/435",
+     "sha256": "1c20be3299a6d11a37b105cf82982dd69d6a80721183a0be7a21bd802e9c8436"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-1.1/versions/724",
+     "sha256": "16a9e10c30c358f0328ab7dbeafb54c127cd5f486be51c26922bdc27972bfd13"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-1.1/versions/807",
+     "sha256": "eb8601e10158c67c79e7f45af51d83b94994c219b32bdf9428312a188e88e6eb"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-1.1",
+     "sha256": "1e7de04139631df8693daec452ec7062acb1e98bfb3d0839607dbc27b4346de8"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3-vse",
+   "short": "VSE",
+   "title": "Verordnung über die Siedlungsentwässerung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.7-3",
+   "versions": [
+    {
+     "from": "2001-10-01",
+     "units": 31,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3/versions/478",
+     "sha256": "fc376670ac7058d44ee6933233c91a36574ceeea52b75c4cf251a8387669ed31"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 31,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3",
+     "sha256": "7c45482fe174e528cfe6b6dbd16de3787078a3315833c9c5f97aa9ade0ec6bcc"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3-1",
+   "short": "SRS 7.7-3.1",
+   "title": "Ausführungsbestimmungen zur Verordnung über die Siedlungsentwässerung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.7-3.1",
+   "versions": [
+    {
+     "from": "2001-10-01",
+     "units": 45,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.1/versions/402",
+     "sha256": "844b66182c0ae9f903c8250f1cb0814be9bb5013629162c13d3539a55183d1b3"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 45,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.1",
+     "sha256": "dbaee42d377a067dd033b0851ed9a6bd3d348479c3098bf67d12c15779011187"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-3-2",
+   "short": "SRS 7.7-3.2",
+   "title": "Tarifblatt Gebühren gemäss Verordnung und Ausführungsbestimmungen über die Siedlungsentwässerung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.7-3.2",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2/versions/347",
+     "sha256": "f7ea076fcb5dcc49cae3e99e27206ad7b0c56da584095c922c6568059181f26e"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2/versions/354",
+     "sha256": "fef3137adfaa17f877d58867327adcdb98bc31bc5a3cb8407abe4da586205534"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2/versions/559",
+     "sha256": "116391ab252b00a3700aece52b9648b686a6fcfe5dcb7b3f81cb8143d2506101"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2/versions/560",
+     "sha256": "c5c6c421e549b109a5b59b2aeea2f018298fc4e6dc7c7998eecad5403e2804ec"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2/versions/872",
+     "sha256": "ca20c8089ac6876aa2064911b7712bf6ea59023f8e283cada63f0fda7199939c"
+    },
+    {
+     "from": "2024-10-01",
+     "units": 5,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.7-3.2",
+     "sha256": "5d5e6994be06953d7165d84cebed7b081f1f7a5079381dd883fb79fa3f83ab70"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-1",
+   "short": "SRS 7.8-1",
+   "title": "Verordnung über die Strassenbenennung und die Adressierung von Gebäuden",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-1/versions/403",
+     "sha256": "a9d3b3dfd761230923329885ef1a8f2f2f3ae6e1a34ff4be83fe0b11977f4a67"
+    },
+    {
+     "from": "2022-07-15",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-1/versions/767",
+     "sha256": "0ee49e17c1456bb909eadfd7fbfbfcfc1eb2fd8f0a726d44b337a841a8489452"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 27,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-1",
+     "sha256": "27458fa203eb97761b05fa1c176059dd7175daeefee9d232c402f5d7915cbd93"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-2-beitragsverordnung",
+   "short": "Beitragsverordnung",
+   "title": "Verordnung über die Grundeigentümerbeiträge, insbesondere an die Erstellungskosten öffentlicher Trottoirs und Kanalisationshauptleitungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-2",
+   "versions": [
+    {
+     "from": "1973-10-01",
+     "units": 32,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-2",
+     "sha256": "fef5f52e5b492f891c07613c5db7a85ecc88970a07c084af0c6d1ca3d9a25fbd"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-3",
+   "short": "SRS 7.8-3",
+   "title": "Richtlinien über die Grundeigentümerbeiträge an die Erstellungs- und Verbesserungskosten öffentlicher Strassen und Plätze (Fahrbahnbeiträge)",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-3",
+   "versions": [
+    {
+     "from": "1973-10-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-3",
+     "sha256": "6d4a992a9c167a5ce3e41e43e87923a6f2ccbb1c97fa1f3599a476e3499d593a"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-4-privatstrassenverordnung",
+   "short": "Privatstrassenverordnung",
+   "title": "Verordnung über die privaten Zugänge",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-4",
+   "versions": [
+    {
+     "from": "2009-03-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-4",
+     "sha256": "ace78b31fd52a8b53fb5547c0ca06ec57cab8daedf5a0cb93c534d19a1db6c50"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-5",
+   "short": "SRS 7.8-5",
+   "title": "Zuständigkeitsordnung der Stadt Winterthur betreffend Kantonale Signalisationsverordnung (KSigV) vom 21. November 2001",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-5",
+   "versions": [
+    {
+     "from": "1981-11-04",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-5/versions/412",
+     "sha256": "5ac203b0cd9e541c2b72ead0dfed44c2abac13098a2f044d20d12d1bd64ac6f8"
+    },
+    {
+     "from": "2019-03-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-5/versions/536",
+     "sha256": "cbeac3cdd8c77b893c8a73bcacff6ca63ffa95d8adb8e49040112845701562c6"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-5/versions/830",
+     "sha256": "568854fe21c93c9835a1a3c75dbe69afbb0dd8cbe4f23230ba062b38df1b8918"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 9,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-5",
+     "sha256": "3226d726939ded4959ea4b5f08a93658a0a9db45587ad64a4557143e45815aec"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-6",
+   "short": "SRS 7.8-6",
+   "title": "Beschluss über die Festlegung der Höchstwerte für die zulässigen Wohneinheiten zur Bestimmung der jeweiligen Zufahrtsart für dicht besiedelte Siedlungsteile, die mit öffentlichen Verkehrsmitteln gut erschlossen sind",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-6",
+   "versions": [
+    {
+     "from": "2022-04-18",
+     "units": 2,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-6",
+     "sha256": "8101f98afa6e9cd3cfa494fe668a07fe9d1fca07bb7fdca5632a3bb40627a8c3"
+    }
+   ]
+  },
+  {
+   "slug": "7-8-7-baukoordinationsverordnung",
+   "short": "Baukoordinationsverordnung",
+   "title": "Verordnung über die Koordination von Bauarbeiten im öffentlichen Strassenraum der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.8-7",
+   "versions": [
+    {
+     "from": "2024-09-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.8-7",
+     "sha256": "bf8344efe568b022a7aed1ca6eebc008f7047399c99d807d367fe9c729506a13"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-1",
+   "short": "SRS 7.9-1",
+   "title": "Vorschriften über die Benützung des öffentlichen Grundes zu Sonderzwecken",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-1",
+   "versions": [
+    {
+     "from": "1996-09-18",
+     "units": 35,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-1",
+     "sha256": "954d07f148c1d8b2f493c29225960f3876cd74dd6ca60a66f5c00f813fa1cce0"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-vgp",
+   "short": "VgP",
+   "title": "Verordnung über das gebührenpflichtige Parkieren auf öffentlichem Grund",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2",
+   "versions": [
+    {
+     "from": "2005-06-06",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2/versions/414",
+     "sha256": "23c12a324b970a95db5e8947a992d61653fcb9e6188e682d2d00556ab067ec26"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2",
+     "sha256": "68c655a1dbfce1291f8178d76ed0bb34c3680e7bea31f8fe44dff1628cb4d6b1"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-1-nachtparkierverordnung-npv",
+   "short": "Nachtparkierverordnung, NPV",
+   "title": "Verordnung über das nächtliche Dauerparkieren auf öffentlichem Grund",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2.1",
+   "versions": [
+    {
+     "from": "2015-05-01",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.1/versions/235",
+     "sha256": "5e8a6f2006b3108e33e9abf8ff37d68fa0d16536e52c281bafffeec89c9d5d77"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.1/versions/737",
+     "sha256": "410066f6a4efdb83c55119e17cb2280f5b1570b900260307b283d5792eed5981"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.1",
+     "sha256": "d62f6cb8710016cb3dfb2281c6605e61ac66ec78195a1372a8c1f8060d4ec959"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-1-1-vvo-npv",
+   "short": "VVO NPV",
+   "title": "Vollzugsverordnung zur Nachtparkierverordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2.1.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 8,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.1.1",
+     "sha256": "768a3bf823c33e93a3379c14c0451a1ebc4b766604a26b4f102c89bd9f92b80c"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-2-pbz",
+   "short": "PBZ",
+   "title": "Verordnung über das unbeschränkte Parkieren in der Blauen Zone",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2.2",
+   "versions": [
+    {
+     "from": "1988-06-13",
+     "units": 14,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.2/versions/413",
+     "sha256": "392396fede0cd908a592924cee80ccbd08784cf341b213887eff07efbe0d1043"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 17,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.2/versions/736",
+     "sha256": "ef764ff6e1ecbbed04e39bf159beb45b8b8870580b86c35187063f3d65e73942"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 18,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.2",
+     "sha256": "5fa51f8810f507715ad8ef4bfef3ebea48ec43eb63cb1e3479dc72350e20557e"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-2-1-vvo-pbz",
+   "short": "VVO PBZ",
+   "title": "Vollzugsverordnung über das unbeschränkte Parkieren in der Blauen Zone",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2.2.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.2.1",
+     "sha256": "7a1e68de949929ee270a7ca0b2582f9f4838da4f012f091a25e3d02a5020c284"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-2-3-vvo-vgp",
+   "short": "VVO VgP",
+   "title": "Vollzugsverordnung über das gebührenpflichtige Parkieren auf öffentlichem Grund",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-2.3",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.3/versions/834",
+     "sha256": "9179879cf9948f14cafc03ea15e473bab55c5c32815f4f5277b6b8366c3dbe16"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-2.3",
+     "sha256": "f8e1d42a108ee9c19be9fdf6bb7e6a726c5001de343a56279c3d11d2cae8beb9"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-3",
+   "short": "SRS 7.9-3",
+   "title": "Verordnung betreffend die Ausnahmebewilligungen zu signalisierten Strassenverkehrsvorschriften",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-3",
+   "versions": [
+    {
+     "from": "1988-08-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-3",
+     "sha256": "387d39ab3401dac99dd987b621ac95c7fbeab6b38d0d0900272bf2b6895d1120"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-4",
+   "short": "SRS 7.9-4",
+   "title": "Nutzungs- und Gebührenordnung für den Teuchelweiher-, Viehmarkt- und Reitwegplatz",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-4",
+   "versions": [
+    {
+     "from": "2017-06-01",
+     "units": 26,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-4/versions/467",
+     "sha256": "552ed25edf855578b14e25a054b420cf60ab0b3227f81055921372b759ba85c8"
+    },
+    {
+     "from": "2023-07-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-4",
+     "sha256": "2a2f695d7d9dd2215cca9cc2467eb080614ddbdbcba2bd60c7928382ed70d7a9"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-5",
+   "short": "SRS 7.9-5",
+   "title": "Verordnung Parkieren Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-5",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 13,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-5",
+     "sha256": "a30af336355f14560642c9d0c65075dcf433dc3d12964e722891b7f45136b865"
+    }
+   ]
+  },
+  {
+   "slug": "7-9-5-1",
+   "short": "SRS 7.9-5.1",
+   "title": "Tarifordnung Parkieren Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/7.9-5.1",
+   "versions": [
+    {
+     "from": "2024-03-01",
+     "units": 7,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/7.9-5.1",
+     "sha256": "3e21ee313492b209631bf97890e5679415fcc59dab1eba3d1cd8ae5e4b1cb666"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1",
+   "short": "SRS 8.1-1",
+   "title": "Verordnung über Alters- und Pflegeeinrichtungen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.1-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.1-1/versions/641",
+     "sha256": "cc12dad67abf80527a6d961399a25de70088176ffb90aa7f6c12d3fc5e17a9ed"
+    },
+    {
+     "from": "2021-05-01",
+     "units": 16,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.1-1",
+     "sha256": "f5e0658be226f5dca7b29a6157126a95d0766e168200efb967aa7fd3beb9d1a8"
+    }
+   ]
+  },
+  {
+   "slug": "8-1-1-1",
+   "short": "SRS 8.1-1.1",
+   "title": "Leistungs- und Taxordnung der Alterszentren der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.1-1.1",
+   "versions": [
+    {
+     "from": "2021-05-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.1-1.1/versions/752",
+     "sha256": "82158829269b95d43fbc3abdd09358fe3d4bb84f37f7c6639595b4c5d6f41ed4"
+    },
+    {
+     "from": "2023-12-01",
+     "units": 24,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.1-1.1",
+     "sha256": "513a80b32f32b03dc170460d39a1ac81a4cd5c3f67821e49b5332454294a1784"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Verordnung über die Spitex-Dienste",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 20,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "c672ef7d40d6200337bde1f75c128f279890816c6c3e4fc499b8dd70bc921592"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Verordnung über den Vollzug der Zusatzleistungen zur AHV/IV und die Gewährung von Gemeindezuschüssen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "4950e94d28c45fa71df46e5be3b904312898e1a1f6ac0acd0352d144d7543e82"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-3",
+   "short": "SRS 8.3-3",
+   "title": "Geschäftsordnung der Sozialhilfebehörde",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.3-3",
+   "versions": [
+    {
+     "from": "2014-06-01",
+     "units": 17,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.3-3/versions/330",
+     "sha256": "eaf23bd5b7b4f0e0b20d2ccb77c469dda45dc6a9f2148d289872ce886ebbb156"
+    },
+    {
+     "from": "2022-06-01",
+     "units": 17,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.3-3",
+     "sha256": "5a21977ada51e62e2db009d278405bb0720a339e1a085515478a24f40d2054af"
+    }
+   ]
+  },
+  {
+   "slug": "8-4-1",
+   "short": "SRS 8.4-1",
+   "title": "Geschäftsordnung KESB Winterthur-Andelfingen",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/8.4-1",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.4-1/versions/240",
+     "sha256": "10fa598eed7b8071f24b4b50bbfc7844301bcf763693802a0c5919f1273e2f66"
+    },
+    {
+     "from": "2019-06-06",
+     "units": 12,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.4-1/versions/769",
+     "sha256": "e24efb7fff7529beb0b53195883aaf65f6b047e54912fcd073c7161224751996"
+    },
+    {
+     "from": "2022-12-01",
+     "units": 11,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/8.4-1",
+     "sha256": "24c4f820410761ac3dc1a35d7ab275203529614ad906984bbe4ee8697d1c586d"
+    }
+   ]
+  },
+  {
+   "slug": "9-1-1",
+   "short": "SRS 9.1-1",
+   "title": "Winterthurer Marktordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/9.1-1",
+   "versions": [
+    {
+     "from": "1990-02-01",
+     "units": 19,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/9.1-1",
+     "sha256": "22538da63d48021429159082a71b570b5cca0f75d783a52f337793c4c7c49d3b"
+    }
+   ]
+  },
+  {
+   "slug": "9-1-1-1",
+   "short": "SRS 9.1-1.1",
+   "title": "Ausführungsbestimmungen zur Marktverordnung",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/9.1-1.1",
+   "versions": [
+    {
+     "from": "1984-01-01",
+     "units": 7,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/9.1-1.1",
+     "sha256": "3bd533bc6cc03a994a0d9a5c1f169bcc33c742ce8b1b2baaefd36a3487de49b5"
+    }
+   ]
+  },
+  {
+   "slug": "9-1-3",
+   "short": "SRS 9.1-3",
+   "title": "Vollzugsvorschriften zur Gesetzgebung über das Gastgewerbe und den Handel mit alkoholischen Getränken",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/9.1-3",
+   "versions": [
+    {
+     "from": "1990-05-01",
+     "units": 33,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/9.1-3",
+     "sha256": "f40b5862ecaf5357a393ed0fdc1553b3de1557c012ea998e0fdcbc4f1fc13e8d"
+    }
+   ]
+  },
+  {
+   "slug": "9-2-1",
+   "short": "SRS 9.2-1",
+   "title": "Verordnung über Taxistandplätze auf öffentlichem Grund",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/9.2-1",
+   "versions": [
+    {
+     "from": "1989-08-01",
+     "units": 33,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/9.2-1/versions/417",
+     "sha256": "74a39b6f24bcb43a11fcd082869940483387bdd8667970fe7efe34b742979483"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 10,
+     "source_url": "https://winterthur.tlex.ch/api/de/texts_of_law/9.2-1",
+     "sha256": "5bbb21db51e0e4784e4c27a7c7457281d868755ccaa8b6c2096acd205e11bab7"
+    }
+   ]
+  }
+ ]
+}
