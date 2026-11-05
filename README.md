@@ -8,7 +8,7 @@ The text is in German, exactly as the city publishes it.
 
 ## What this repository holds
 
-150 acts with 317 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
+151 acts with 318 versions so far: the Gemeindeordnung (the city's charter) first, then the city's other enactments in force (ordinances, regulations, tariffs and decisions), in the order of the systematic collection, added in parts of about 50. Agreements, concessions, directives and repealed acts are not included.
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
@@ -35,6 +35,7 @@ The text is in German, exactly as the city publishes it.
 | `1-4-5-9-pvo-aufsichtsstellen/` | Personalverordnung für die städtischen Aufsichtsstellen (SRS 1.4.5-9) | 1 | as enacted, 1 November 2025 |
 | `1-4-8-1/` | Verordnung über die Pensionskasse der Stadt Winterthur (SRS 1.4.8-1) | 2 | as enacted, then each consolidated version: 1 January 2014 to 1 January 2025 |
 | `1-4-8-1-1/` | Stiftungsurkunde der Pensionskasse der Stadt Winterthur (SRS 1.4.8-1.1) | 1 | as enacted, 1 January 2014 |
+| `1-4-8-1-2/` | Statuten der Pensionskasse der Stadt Winterthur (SRS 1.4.8-1.2) | 1 | current PDF text as one file, 25 February 2013 |
 | `1-4-8-5/` | Verordnung über die Pensionsversicherung der Mitglieder des Stadtrates (SRS 1.4.8-5) | 1 | as enacted, 1 January 2006 |
 | `1-5-1/` | Verordnung über die städtische Ombudsstelle (SRS 1.5-1) | 4 | oldest version available, then each consolidated version: 1 November 2010 to 1 November 2025 |
 | `1-6-1-vo-burgerrecht-winterthur/` | Verordnung über das Bürgerrecht der Stadt Winterthur (SRS 1.6-1) | 2 | oldest version available, then each consolidated version: 14 May 2018 to 1 September 2025 |

@@ -1,12 +1,13 @@
 # How this repository was made (Winterthur (city))
 
-This file is written by the build on 2026-10-31, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Stadt Winterthur: SRS (LexWork) | <https://winterthur.tlex.ch/> | 2026-10-31 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
+| Stadt Winterthur: SRS (LexWork) | <https://winterthur.tlex.ch/api/de/versions/8/pdf_file_with_annexes> | 2026-11-05 | Laws and decrees are not protected by copyright (Art. 5 para. 1 let. a URG, SR 231.1). |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -164,20 +165,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `9-1-1-1` | Ausführungsbestimmungen zur Marktverordnung | 1 | 1984-01-01 to 1984-01-01 |
 | `9-1-3` | Vollzugsvorschriften zur Gesetzgebung über das Gastgewerbe und den Handel mit alkoholischen Getränken | 1 | 1990-05-01 to 1990-05-01 |
 | `9-2-1` | Verordnung über Taxistandplätze auf öffentlichem Grund | 2 | 1989-08-01 to 2025-01-01 |
+| `1-4-8-1-2` | Statuten der Pensionskasse der Stadt Winterthur | 1 | 2013-02-25 to 2013-02-25 |
 
-The build made 299 commits:
+The build made 300 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 150 | first version of an act |
+| 151 | first version of an act |
 | 149 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 2 commits on the branch `zukunft`: laws not yet in force on 2026-10-31.
+- 2 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 415 laws in the record.
-- 563 tags.
+- 565 tags.
 
 ## Dates
 
@@ -189,15 +191,15 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `c7ff340fad04e0752156859275f152de29e598f4d1ebf367cdba67b8985e7c27` (3463898 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `c1a1612bd969e211520efe5cd8d0861f09c584a0d21a8c108218ab12fe96aec8` (3525268 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-317 versions of 150 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-No second build of this corpus has been compared yet.
+A second build from the same corpus into an empty folder gave identical hashes for all 298 history commits and 564 tags (history tip `b158d18d5e4fd9d49095936b68aac676fe4a3e7e`).
 
 ## Decisions made by hand
 
@@ -206,6 +208,9 @@ No second build of this corpus has been compared yet.
 - Section headings are kept together in one file per act (gliederung.md); the title, date and preamble in ingress.md; the signature block in schluss.md. Amendment markers (*) and the "Stand" date are left out.
 - Annexes published only as separate PDF files are not included.
 - An act's first version is credited to its original enactment only when the change table shows no change in force before it; otherwise it is the oldest version available.
+- SRS 1.4.8-1.2 is included because the city lists it as current and its PDF contains normative pension-fund statutes with selectable text.
+- The collection dates the current version to 25 February 2013; the PDF says it includes amendments through that date. The original act took effect on 1 January 1999.
+- The PDF text layer is copied by extraction into one file, preserving its page order and its tables as published text. No model edits or OCR were used.
 
 ## What AI did and did not do
 
@@ -217,3 +222,4 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - A model (Claude) wrote the fetch and parse code and chose which acts to include; it wrote no law text. Every word of law comes from the city's own collection.
+- A model selected the act and wrote extraction and gate code; it did not write or correct any law text.

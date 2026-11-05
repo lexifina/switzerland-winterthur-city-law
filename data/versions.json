@@ -3102,6 +3102,20 @@
      "sha256": "5bbb21db51e0e4784e4c27a7c7457281d868755ccaa8b6c2096acd205e11bab7"
     }
    ]
+  },
+  {
+   "slug": "1-4-8-1-2",
+   "short": "SRS 1.4.8-1.2",
+   "title": "Statuten der Pensionskasse der Stadt Winterthur",
+   "url": "https://winterthur.tlex.ch/app/de/texts_of_law/1.4.8-1.2",
+   "versions": [
+    {
+     "from": "2013-02-25",
+     "units": 1,
+     "source_url": "https://winterthur.tlex.ch/api/de/versions/8/pdf_file_with_annexes",
+     "sha256": "d58dc590de6d681ce106ecc13e1c6d0cd58115a923e1cdfc522a45ba61fc47c3"
+    }
+   ]
   }
  ]
 }
