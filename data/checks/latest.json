@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:29:43Z",
+ "generated": "2026-11-26T07:21:16Z",
  "latest": {
   "lexwork-winterthur-city|switzerland/zurich/winterthur/acts": {
    "attempt": 1,
@@ -23,11 +23,11 @@
     "repo": 151,
     "source_in_scope": 151
    },
-   "check_id": "ch-lexwork-winterthur-city-20261125T082426Z",
+   "check_id": "ch-lexwork-winterthur-city-20261126T071551Z",
    "commits": null,
    "corpus": "switzerland/zurich/winterthur/acts",
    "error": null,
-   "finished": "2026-11-25T08:25:30Z",
+   "finished": "2026-11-26T07:16:44Z",
    "flags": [],
    "gap": 110,
    "note": "winterthur.tlex.ch: index of 269 acts (269 in force); held 151; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 110 published only as PDF; 22 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,7 +37,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 58,
+   "requests": 48,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -47,7 +47,7 @@
    },
    "snapshot": "269 entries, 269 in force (winterthur.tlex.ch)",
    "source": "lexwork-winterthur-city",
-   "started": "2026-11-25T08:24:26Z",
+   "started": "2026-11-26T07:15:51Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -64,13 +64,11 @@
     "examples": [],
     "held": 151,
     "method": "each act compared this check (22 of 151: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from winterthur.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
-    "not_compared": {
-     "46-pdf-statuten.json": 1
-    },
-    "not_compared_why": "acts held from parts built by another route (not the collection's XHTML through the builder's parse), e.g. a verification pass or PDF annexes",
+    "not_compared": {},
+    "not_compared_why": null,
     "ok": true,
     "swept": 22,
-    "versions_checked": 47,
+    "versions_checked": 40,
     "versions_differ": 0
    }
   }

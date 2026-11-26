@@ -8,7 +8,7 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Winterthur: Systematische Sammlung (winterthur.tlex.ch) · `switzerland/zurich/winterthur/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 08:25 UTC**.
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 07:16 UTC**.
 - Vorschriften hier: 151; aktuell gegenüber der Quelle: 151; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
 - In diesem Lesen mit der Quelle verglichen: 22 der 151 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 110 (hier vorhanden, an der Quelle nicht mehr: 110); ohne Grund: 0.
