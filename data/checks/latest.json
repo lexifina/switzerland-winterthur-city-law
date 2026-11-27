@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:21:16Z",
+ "generated": "2026-11-27T07:14:55Z",
  "latest": {
   "lexwork-winterthur-city|switzerland/zurich/winterthur/acts": {
    "attempt": 1,
@@ -14,46 +14,48 @@
    },
    "census": {
     "checked": 22,
-    "current": 151,
+    "current": 150,
     "gone": 0,
     "held": 151,
     "not_at_source": 110,
     "out_of_scope": 8,
-    "pending": 0,
+    "pending": 1,
     "repo": 151,
     "source_in_scope": 151
    },
-   "check_id": "ch-lexwork-winterthur-city-20261126T071551Z",
+   "check_id": "ch-lexwork-winterthur-city-20261127T071018Z",
    "commits": null,
    "corpus": "switzerland/zurich/winterthur/acts",
    "error": null,
-   "finished": "2026-11-26T07:16:44Z",
+   "finished": "2026-11-27T07:11:18Z",
    "flags": [],
-   "gap": 110,
+   "gap": 111,
    "note": "winterthur.tlex.ch: index of 269 acts (269 in force); held 151; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 110 published only as PDF; 22 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "no-change",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 48,
+   "requests": 56,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "6.1-1"
+    ],
     "removed": []
    },
    "snapshot": "269 entries, 269 in force (winterthur.tlex.ch)",
    "source": "lexwork-winterthur-city",
-   "started": "2026-11-26T07:15:51Z",
+   "started": "2026-11-27T07:10:18Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -68,7 +70,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 22,
-    "versions_checked": 40,
+    "versions_checked": 43,
     "versions_differ": 0
    }
   }

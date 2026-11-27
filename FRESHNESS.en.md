@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Winterthur: systematic collection (winterthur.tlex.ch) · `switzerland/zurich/winterthur/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 07:16 UTC**.
-- Acts held here: 151; current at the source: 151; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-27 07:11 UTC**.
+- Acts held here: 151; current at the source: 150; changed at the source since the version held here: 1; no longer at the source: 0.
 - Compared with the source in this read: 22 of the 151 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 110 (held here, no longer at the source: 110); with no reason: 0.
+- Not published: 111 (held here, no longer at the source: 110, changed at the source since the version held here: 1); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
