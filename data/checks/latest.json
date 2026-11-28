@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-27T07:14:55Z",
+ "generated": "2026-11-28T08:37:13Z",
  "latest": {
   "lexwork-winterthur-city|switzerland/zurich/winterthur/acts": {
-   "attempt": 1,
+   "attempt": 3,
    "audit": {
     "examples": [],
     "match_neither": 0,
@@ -23,11 +23,11 @@
     "repo": 151,
     "source_in_scope": 151
    },
-   "check_id": "ch-lexwork-winterthur-city-20261127T071018Z",
+   "check_id": "ch-lexwork-winterthur-city-20261128T083248Z",
    "commits": null,
    "corpus": "switzerland/zurich/winterthur/acts",
    "error": null,
-   "finished": "2026-11-27T07:11:18Z",
+   "finished": "2026-11-28T08:33:42Z",
    "flags": [],
    "gap": 111,
    "note": "winterthur.tlex.ch: index of 269 acts (269 in force); held 151; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 110 published only as PDF; 22 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
@@ -37,19 +37,19 @@
     "changed": [],
     "removed": []
    },
-   "requests": 56,
+   "requests": 50,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
     "changed": [
-     "6.1-1"
+     "7.5-2"
     ],
     "removed": []
    },
    "snapshot": "269 entries, 269 in force (winterthur.tlex.ch)",
    "source": "lexwork-winterthur-city",
-   "started": "2026-11-27T07:10:18Z",
+   "started": "2026-11-28T08:32:48Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -70,7 +70,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 22,
-    "versions_checked": 43,
+    "versions_checked": 34,
     "versions_differ": 0
    }
   }

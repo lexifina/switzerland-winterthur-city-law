@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Winterthur: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:11 UTC, Winterthur: Systematische Sammlung (winterthur.tlex.ch): 56 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 111 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 08:33 UTC, Winterthur: Systematische Sammlung (winterthur.tlex.ch): 50 Adressen gelesen; 0 hinzugefügt, 1 geändert, 0 entfernt; Änderungen gefunden; 111 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Winterthur: Systematische Sammlung (winterthur.tlex.ch)](https://winterthur.tlex.ch/) | `<act>/` | täglich | 2026-11-27 07:11 UTC | Änderungen gefunden | beobachtet |
+| [Winterthur: Systematische Sammlung (winterthur.tlex.ch)](https://winterthur.tlex.ch/) | `<act>/` | täglich | 2026-11-28 08:33 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:32](checks/2026-11.md#ch-lexwork-winterthur-city-20261128t083248z) | lexwork-winterthur-city | 50 | 0 | 1 | 0 | 111 (0) | Änderungen gefunden | — |
+| [2026-11-28 07:13](checks/2026-11.md#ch-lexwork-winterthur-city-20261128t071308z) | lexwork-winterthur-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:43](checks/2026-11.md#ch-lexwork-winterthur-city-20261128t064350z) | lexwork-winterthur-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 07:10](checks/2026-11.md#ch-lexwork-winterthur-city-20261127t071018z) | lexwork-winterthur-city | 56 | 0 | 1 | 0 | 111 (0) | Änderungen gefunden | — |
 | [2026-11-26 07:15](checks/2026-11.md#ch-lexwork-winterthur-city-20261126t071551z) | lexwork-winterthur-city | 48 | 0 | 0 | 0 | 110 (0) | keine Änderung | — |
 | [2026-11-25 08:24](checks/2026-11.md#ch-lexwork-winterthur-city-20261125t082426z) | lexwork-winterthur-city | 58 | 0 | 0 | 0 | 110 (0) | keine Änderung | — |
